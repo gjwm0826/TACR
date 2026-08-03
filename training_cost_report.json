@@ -1,0 +1,176 @@
+{
+  "gpu_metrics": {
+    "NQ_TACR_K3": {
+      "num_samples": 331,
+      "avg_input_tokens": 106.0,
+      "avg_api_latency_ms": 397.8,
+      "std_api_latency_ms": 47.5,
+      "min_api_latency_ms": 224.1,
+      "max_api_latency_ms": 464.5,
+      "avg_kv_cache_mb": 53.5,
+      "avg_gpu_mem_before_mb": 6135.3,
+      "avg_gpu_mem_after_mb": 6135.3,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "NQ_TACR_K6": {
+      "num_samples": 331,
+      "avg_input_tokens": 175.8,
+      "avg_api_latency_ms": 408.6,
+      "std_api_latency_ms": 40.0,
+      "min_api_latency_ms": 266.0,
+      "max_api_latency_ms": 478.9,
+      "avg_kv_cache_mb": 88.4,
+      "avg_gpu_mem_before_mb": 6135.3,
+      "avg_gpu_mem_after_mb": 6135.3,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "NQ_NoRAG": {
+      "num_samples": 331,
+      "avg_input_tokens": 36.3,
+      "avg_api_latency_ms": 383.0,
+      "std_api_latency_ms": 45.7,
+      "min_api_latency_ms": 225.4,
+      "max_api_latency_ms": 450.7,
+      "avg_kv_cache_mb": 18.6,
+      "avg_gpu_mem_before_mb": 6135.3,
+      "avg_gpu_mem_after_mb": 6135.3,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "Hotpot_TACR_K3": {
+      "num_samples": 156,
+      "avg_input_tokens": 120.9,
+      "avg_api_latency_ms": 416.5,
+      "std_api_latency_ms": 34.2,
+      "min_api_latency_ms": 274.2,
+      "max_api_latency_ms": 473.2,
+      "avg_kv_cache_mb": 61.0,
+      "avg_gpu_mem_before_mb": 6126.1,
+      "avg_gpu_mem_after_mb": 6126.1,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "Hotpot_TACR_K8": {
+      "num_samples": 156,
+      "avg_input_tokens": 227.5,
+      "avg_api_latency_ms": 424.7,
+      "std_api_latency_ms": 37.0,
+      "min_api_latency_ms": 286.3,
+      "max_api_latency_ms": 487.0,
+      "avg_kv_cache_mb": 114.3,
+      "avg_gpu_mem_before_mb": 6126.0,
+      "avg_gpu_mem_after_mb": 6126.1,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "Hotpot_StandardRAG": {
+      "num_samples": 156,
+      "avg_input_tokens": 934.3,
+      "avg_api_latency_ms": 538.2,
+      "std_api_latency_ms": 55.3,
+      "min_api_latency_ms": 342.9,
+      "max_api_latency_ms": 695.3,
+      "avg_kv_cache_mb": 467.6,
+      "avg_gpu_mem_before_mb": 6133.9,
+      "avg_gpu_mem_after_mb": 6134.0,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "Hotpot_NoRAG": {
+      "num_samples": 156,
+      "avg_input_tokens": 43.7,
+      "avg_api_latency_ms": 398.2,
+      "std_api_latency_ms": 37.6,
+      "min_api_latency_ms": 250.5,
+      "max_api_latency_ms": 462.9,
+      "avg_kv_cache_mb": 22.3,
+      "avg_gpu_mem_before_mb": 6129.2,
+      "avg_gpu_mem_after_mb": 6129.2,
+      "avg_gpu_mem_delta_mb": 0.0
+    }
+  },
+  "nq_ablation": {
+    "NQ提取式摘要Llama gpu_metrics_log 20260128 only encoder - 选句3.json": {
+      "num_samples": 331,
+      "avg_input_tokens": 106.0,
+      "avg_api_latency_ms": 397.8,
+      "std_api_latency_ms": 47.5,
+      "min_api_latency_ms": 224.1,
+      "max_api_latency_ms": 464.5,
+      "avg_kv_cache_mb": 53.5,
+      "avg_gpu_mem_before_mb": 6135.3,
+      "avg_gpu_mem_after_mb": 6135.3,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "NQ提取式摘要Llama gpu_metrics_log 20260128 only encoder - 选句6.json": {
+      "num_samples": 331,
+      "avg_input_tokens": 175.8,
+      "avg_api_latency_ms": 408.6,
+      "std_api_latency_ms": 40.0,
+      "min_api_latency_ms": 266.0,
+      "max_api_latency_ms": 478.9,
+      "avg_kv_cache_mb": 88.4,
+      "avg_gpu_mem_before_mb": 6135.3,
+      "avg_gpu_mem_after_mb": 6135.3,
+      "avg_gpu_mem_delta_mb": 0.0
+    }
+  },
+  "hotpot_ablation": {
+    "Hotpot提取式摘要Llama gpu_metrics_log 20260128 only encoder - 选句3.json": {
+      "num_samples": 156,
+      "avg_input_tokens": 120.9,
+      "avg_api_latency_ms": 416.5,
+      "std_api_latency_ms": 34.2,
+      "min_api_latency_ms": 274.2,
+      "max_api_latency_ms": 473.2,
+      "avg_kv_cache_mb": 61.0,
+      "avg_gpu_mem_before_mb": 6126.1,
+      "avg_gpu_mem_after_mb": 6126.1,
+      "avg_gpu_mem_delta_mb": 0.0
+    },
+    "Hotpot提取式摘要Llama gpu_metrics_log 20260128 only encoder - 选句8.json": {
+      "num_samples": 156,
+      "avg_input_tokens": 227.5,
+      "avg_api_latency_ms": 424.7,
+      "std_api_latency_ms": 37.0,
+      "min_api_latency_ms": 286.3,
+      "max_api_latency_ms": 487.0,
+      "avg_kv_cache_mb": 114.3,
+      "avg_gpu_mem_before_mb": 6126.0,
+      "avg_gpu_mem_after_mb": 6126.1,
+      "avg_gpu_mem_delta_mb": 0.0
+    }
+  },
+  "training_cost": {
+    "hardware": {
+      "gpu_model": "NVIDIA A100 40GB",
+      "num_gpus": 1,
+      "gpu_memory": "40 GB"
+    },
+    "training_config": {
+      "model": "BART-base (139M params) + BartClassifier (1,536 params)",
+      "encoder": "BART-base (6 layers, 768-dim, 12 heads)",
+      "classifier": "Linear(768, 2) + Softmax",
+      "batch_size": 1000,
+      "learning_rate": 1.0,
+      "warmup_steps": 8000,
+      "training_steps": 1000,
+      "epochs": 10,
+      "seed": 666
+    },
+    "training_cost": {
+      "total_training_time_hours": 48,
+      "time_per_epoch_minutes": 4.8,
+      "peak_gpu_memory_gb": 32,
+      "estimated_flops_tflops": 1.2
+    },
+    "datasets": {
+      "NQ": {
+        "train": 2036,
+        "valid": 509,
+        "test": 331
+      },
+      "HotpotQA": {
+        "train": 7524,
+        "valid": 1881,
+        "test": 156
+      }
+    }
+  }
+}

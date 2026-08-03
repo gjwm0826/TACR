@@ -1,0 +1,1250 @@
+[
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 13,
+    "tokens": 4,
+    "num_sentences": 1,
+    "index": 0
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 14,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 1
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 2,
+    "num_sentences": 2,
+    "index": 2
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 3
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 4
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 5
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 6
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 7
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 8
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 9
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 10
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 11
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 4,
+    "num_sentences": 1,
+    "index": 12
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 5,
+    "num_sentences": 3,
+    "index": 13
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 12,
+    "tokens": 10,
+    "num_sentences": 1,
+    "index": 14
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 5,
+    "num_sentences": 3,
+    "index": 15
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 16
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 17
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 3,
+    "num_sentences": 1,
+    "index": 18
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 19
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 13,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 20
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 21
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 22
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 2,
+    "num_sentences": 1,
+    "index": 23
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 24
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 25
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 26
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 11,
+    "num_sentences": 2,
+    "index": 27
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 2,
+    "num_sentences": 1,
+    "index": 28
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 29
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 30
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 31
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 32
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 33
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 13,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 34
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 5,
+    "num_sentences": 2,
+    "index": 35
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 36
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 37
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 38
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 2,
+    "num_sentences": 2,
+    "index": 39
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 40
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 41
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 42
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 43
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 44
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 45
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 46
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 14,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 47
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 48
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 9,
+    "num_sentences": 6,
+    "index": 49
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 50
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 2,
+    "num_sentences": 2,
+    "index": 51
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 14,
+    "tokens": 14,
+    "num_sentences": 7,
+    "index": 52
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 9,
+    "num_sentences": 1,
+    "index": 53
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 54
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 55
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 3,
+    "num_sentences": 1,
+    "index": 56
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 57
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 1,
+    "num_sentences": 1,
+    "index": 58
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 59
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 60
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 7,
+    "num_sentences": 1,
+    "index": 61
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 62
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 1,
+    "num_sentences": 1,
+    "index": 63
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 2,
+    "num_sentences": 2,
+    "index": 64
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 65
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 13,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 66
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 67
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 7,
+    "num_sentences": 3,
+    "index": 68
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 69
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 10,
+    "num_sentences": 2,
+    "index": 70
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 1,
+    "num_sentences": 1,
+    "index": 71
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 5,
+    "num_sentences": 1,
+    "index": 72
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 73
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 74
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 12,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 75
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 76
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 1,
+    "num_sentences": 1,
+    "index": 77
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 78
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 15,
+    "tokens": 9,
+    "num_sentences": 2,
+    "index": 79
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 80
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 81
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 82
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 83
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 84
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 85
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 4,
+    "num_sentences": 1,
+    "index": 86
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 9,
+    "num_sentences": 1,
+    "index": 87
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 7,
+    "num_sentences": 1,
+    "index": 88
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 10,
+    "num_sentences": 1,
+    "index": 89
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 4,
+    "num_sentences": 3,
+    "index": 90
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 91
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 92
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 93
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 94
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 95
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 96
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 97
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 98
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 99
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 13,
+    "tokens": 1,
+    "num_sentences": 1,
+    "index": 100
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 101
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 102
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 6,
+    "num_sentences": 2,
+    "index": 103
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 1,
+    "num_sentences": 1,
+    "index": 104
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 5,
+    "num_sentences": 2,
+    "index": 105
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 106
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 107
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 108
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 12,
+    "tokens": 2,
+    "num_sentences": 2,
+    "index": 109
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 110
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 7,
+    "num_sentences": 2,
+    "index": 111
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 112
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 1,
+    "num_sentences": 1,
+    "index": 113
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 13,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 114
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 13,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 115
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 116
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 4,
+    "num_sentences": 1,
+    "index": 117
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 118
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 119
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 120
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 121
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 122
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 6,
+    "num_sentences": 2,
+    "index": 123
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 124
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 125
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 126
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 8,
+    "num_sentences": 1,
+    "index": 127
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 128
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 129
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 130
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 131
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 3,
+    "num_sentences": 1,
+    "index": 132
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 3,
+    "num_sentences": 1,
+    "index": 133
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 6,
+    "num_sentences": 2,
+    "index": 134
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 135
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 136
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 12,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 137
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 12,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 138
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 9,
+    "num_sentences": 1,
+    "index": 139
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 4,
+    "num_sentences": 1,
+    "index": 140
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 141
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 11,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 142
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 9,
+    "num_sentences": 1,
+    "index": 143
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 144
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 145
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 146
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 147
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 148
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 6,
+    "num_sentences": 6,
+    "index": 149
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 150
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 151
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 5,
+    "num_sentences": 2,
+    "index": 152
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 153
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 154
+  },
+  {
+    "method": "xRAG-Proxy",
+    "retention_rate": 0.01,
+    "token_budget": 10,
+    "tokens": 0,
+    "num_sentences": 0,
+    "index": 155
+  }
+]

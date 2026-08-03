@@ -1,0 +1,4410 @@
+[
+  {
+    "method": "COMI-Lite",
+    "accuracy": 0.7372,
+    "avg_tokens": 923.5,
+    "total_samples": 156,
+    "correct": 115,
+    "total_time_seconds": 173.6,
+    "detailed_results": [
+      {
+        "index": 0,
+        "question": "Scott Workman was an American stuntman and actor credited with a successful show on what smaller TV Network?",
+        "gold_answer": "WB Television Network",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 1,
+        "question": "Telos was an album by a band who formed in what city?",
+        "gold_answer": "Indianapolis",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 2,
+        "question": "Lawerence Turman had produced a film, with a character named \"Johnny 5\" that had a follow up sequel released in what year?",
+        "gold_answer": "1988",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 3,
+        "question": "What rank was higher than Karl Hermann Frank's rank until April 1942?",
+        "gold_answer": "Reichsführer-SS",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 4,
+        "question": " Force India VJM10 is a Formula One racing car previous driven by Nico Hülkenberg, and is now driven by which driver born 17 September 1996?",
+        "gold_answer": "Esteban Ocon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 5,
+        "question": "Radha Jayalakshmi and the Priya sisters were both duo's in what music style? ",
+        "gold_answer": "Carnatic music",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 6,
+        "question": "What is the name of the number-one single featuring the winner of Celebrity Apprentice 3?",
+        "gold_answer": "Every Rose Has Its Thorn",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 7,
+        "question": "What song by the American rapper Coolio is on his greatest hits album \"Fantiastic Voyage\" and samples from a Stevie Wonder song?",
+        "gold_answer": "Gangsta's Paradise",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 8,
+        "question": "Which of the music composed for Operation Amsterdam originated in the middle of the 19th century in Bohemia, now part of the Czech Republic?",
+        "gold_answer": "Polka",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 9,
+        "question": "Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?",
+        "gold_answer": "Francisco Rafael Arellano Félix",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 10,
+        "question": "The actress who made her film debut in Friday Night Lights also starred in a 2014 French-American crime-thriller directed by whi?",
+        "gold_answer": "McG",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 11,
+        "question": "In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?",
+        "gold_answer": "Campbellsville University",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 12,
+        "question": "Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",
+        "gold_answer": "GE Appliances",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 13,
+        "question": "PISCES was developed by the company that is headquartered in what city?",
+        "gold_answer": "McLean, Virginia",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 14,
+        "question": "How many species of Hawaiian hibiscus do not have white flowers?",
+        "gold_answer": "250",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 15,
+        "question": "Marvel Classics Comics specialized in adaptations of literary classics, such as a novel by American writer Herman Melville, that was published in what year?",
+        "gold_answer": "1851",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 16,
+        "question": "When was the Chief Aerodynamicist for the British supersonic land vehicle, whose goal is to match or exceed 1000 mph achieving a new world land speed record, born?",
+        "gold_answer": "1932",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 17,
+        "question": "Which reservation is located in Hill and Chouteau and named after the principal leader of the Montana Chippewa-Cree?",
+        "gold_answer": "Rocky Boy's Indian Reservation",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 18,
+        "question": "Jihad: A Story of the Others is a documentary by the director who is of what descent?",
+        "gold_answer": "Punjabi/Pashtun",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 19,
+        "question": "Who was the main vocal of \"Set the Fire to the Third Bar\"?",
+        "gold_answer": "Gary Lightbody",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 20,
+        "question": "In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?",
+        "gold_answer": "Australian",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 21,
+        "question": "Cheek to cheek tour played shows at what place that is located on the Las Vegas strip that began their tour?",
+        "gold_answer": "Cosmopolitan of Las Vegas",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 22,
+        "question": "Do the operas Vanessa and Le roi malgré lui contain that same number of acts?",
+        "gold_answer": "yes",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 23,
+        "question": "What was Terry Owen's son's profession after retiring from football?",
+        "gold_answer": "racehorse breeder and owner",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 24,
+        "question": "Where was the only European Cup Final in which Jupp Heynkes played held?",
+        "gold_answer": "Stadio Olimpico",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 25,
+        "question": "The USS Tortuga was named after the Dry Tortugas, a group of desert coral islets 60 miles west of which city with the motto \"One Human Family\"?",
+        "gold_answer": "Key West",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 26,
+        "question": "The producer of the Eric Church album \"The Outsiders\" was a member of what band in the 1980's?",
+        "gold_answer": "In Pursuit",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 27,
+        "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+        "gold_answer": "Justin Spitzer",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 28,
+        "question": "The Bodie & Benton Railway was a narrow gauge common carrier railroad in California, from the Mono Mills to a terminus in a ghost town located how many miles away from Lake Tahoe ?",
+        "gold_answer": "75 mi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 29,
+        "question": "Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?",
+        "gold_answer": "The Changing Scottish Landscape",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 30,
+        "question": "Which American car rental company is also a member of the Association of Car Rental Industry Sytems Standards?",
+        "gold_answer": "Budget Rent a Car",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 31,
+        "question": "The competition Lev Oborin won in 1927 is held in what city?",
+        "gold_answer": "Warsaw, Poland",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 32,
+        "question": "Which town has a greater population as of the 2010 census, Minden, Nevada or Gardnerville, Nevada?",
+        "gold_answer": "Gardnerville",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 33,
+        "question": "Which tennis player is from a country closer to Canada, Ken Flach or Lucie Šafářová?",
+        "gold_answer": "Kenneth Eliot Flach",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 34,
+        "question": "What year was the author of Cock and Bull born? ",
+        "gold_answer": "1961",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 35,
+        "question": "What job did Newt Gingrich have prior to producing Nine Days that Changed the World?",
+        "gold_answer": "former Speaker of the U.S. House of Representatives",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 36,
+        "question": "The Polar Bear and Daiquiri are both examples of what?",
+        "gold_answer": "cocktails",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 37,
+        "question": "What is the name of the company that wholly owns the Value Alliance airline whose head office is within Terminal 2 of Narita International Airport?",
+        "gold_answer": "All Nippon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 38,
+        "question": "When did the character on Grey's Anatomy, played by the same actor who portrayed Rev James Lawson in \"Lee Daniel's The Butler\", debut?",
+        "gold_answer": "season six, episode 5, \"Invasion\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 39,
+        "question": "What religion is the composer for India's first science fiction film series?",
+        "gold_answer": "Hindi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 40,
+        "question": "What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?",
+        "gold_answer": "WAMC",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 41,
+        "question": "The third emperor in the Year of the Four Emperors had how many wives? ",
+        "gold_answer": "second",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 42,
+        "question": "Hudson Austin formed a military government with himself as chairman to rule Grenada, after the killing of a Grenadian politician who was the leader of what movement that was an effort in the areas of socio-economic development, education, and black liberation?",
+        "gold_answer": "New Jewel Movement",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 43,
+        "question": "Which magazine is focused more on the adult demographic, Jack and Jill or Paper?",
+        "gold_answer": "Paper",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 44,
+        "question": "The members of the von Trapp musical group are related to which woman who wrote \"The Story of the Trapp Family Singers\"?",
+        "gold_answer": "Maria von Trapp",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 45,
+        "question": "Who is the American actress performed \"Take On The World\" with Sabrina Carpenter?",
+        "gold_answer": "Rowan Blanchard",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 46,
+        "question": "The Black Belly of the Tarantula starred an actress who married what former member of the Beatles?",
+        "gold_answer": "Ringo Starr",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 47,
+        "question": "What dance academy did the starring actress from The Glory of Tang Dynasty graduate from?",
+        "gold_answer": "Beijing Dance Academy",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 48,
+        "question": "The Birthday of the World: and Other Stories was written by what fantasy and sci-fi author?",
+        "gold_answer": "Ursula Kroeber Le Guin",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 49,
+        "question": "The author of the \"The Dagger and the Coin\" fantasy series was nominated for what award in 2017?",
+        "gold_answer": "Hugo Award",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 50,
+        "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+        "gold_answer": "professional wrestler, actor, and hip hop musician",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 51,
+        "question": "Lawton–Fort Sill Regional Airport, a charter base for value airline Allegiant Air, is situated in which U.S. state?",
+        "gold_answer": "Oklahoma",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 52,
+        "question": "Which person, William Blake Herron or John Carpenter, held more diverse roles in the movie industry?",
+        "gold_answer": "musician, editor and composer.",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 53,
+        "question": "Keanu is a 2016 American action comedy film directed by Peter Atencio and written by who?",
+        "gold_answer": "Jordan Peele",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 54,
+        "question": "Where was the host of Australia's Got Talent born?",
+        "gold_answer": "Warrnambool, Victoria",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 55,
+        "question": "Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?",
+        "gold_answer": "Giuseppe Verdi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 56,
+        "question": "Naval Air Station Ellyson Field was an auxiliary facility to the air station in which community?",
+        "gold_answer": "Warrington",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 57,
+        "question": "What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?",
+        "gold_answer": "Sex Drive",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 58,
+        "question": "The birthplace of George McCall Theal is a port city of what bay?",
+        "gold_answer": "Bay of Fundy",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 59,
+        "question": "Whose native growing land is more south, Beech or Daviesia?",
+        "gold_answer": "Daviesia",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 60,
+        "question": "Russia Soviet pianist, composer and teacher, Tatiana Nikolayeva taught what Polish pianist and music educator?",
+        "gold_answer": "Maria Szraiber",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 61,
+        "question": "What theory was advanced by the author of Progress in Optics?",
+        "gold_answer": "theory of direct scattering and inverse scattering",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 62,
+        "question": "Why is Minister Pool important to Black Country and the West Midlands in England?",
+        "gold_answer": "defence of the Cathedral",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 63,
+        "question": "Which American singer-songwriter toured with J.P. Doherty in 2007 on Cyndi Lauper's True Colors tour?",
+        "gold_answer": "Debbie Harry",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 64,
+        "question": " Which 1970's film was released first, Charley and the Angel or The Boatniks?",
+        "gold_answer": "The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 65,
+        "question": "M.F.A. starred the actress known for starring in what E! reality series?",
+        "gold_answer": "Mrs. Eastwood & Company",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 66,
+        "question": "The creek of which Paradise Creek is a tributary is a tributary of what river?",
+        "gold_answer": "Delaware River",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 67,
+        "question": "What tribe was the Megaoryzomys curioi previously in that Nesoryzomys are also in?",
+        "gold_answer": "Oryzomyini",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 68,
+        "question": "When did the Disney sitcom in which Genevieve Knight \"G\" Hannelius starred as Avery Jennings end?",
+        "gold_answer": "October 16, 2015",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 69,
+        "question": "Keene is an unincorporated community in Wabaunsee County, Kansas, in what federal republic composed of 50 states?",
+        "gold_answer": "The United States of America",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 70,
+        "question": "In which genus number of species are more, Lavatera or Oplismenus?",
+        "gold_answer": "Oplismenus",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 71,
+        "question": "What was Robert M. Fomon's connection to the New York Stock Exchange located at 11 Wall Street, Lower Manhattan, New York City, New York?",
+        "gold_answer": "a governor",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 72,
+        "question": "Liz Rose has co-written songs with which artist including \"White Horse\" and \"You Belong with Me\"?",
+        "gold_answer": "Taylor Swift",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 73,
+        "question": "where is the  a county where  Purcell can be found located ",
+        "gold_answer": "the U.S. state of Kansas",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 74,
+        "question": "The True Colors World Tour was by what artist whose debut album was \"She's So Unusual\"?",
+        "gold_answer": "Cynthia Ann Stephanie \"Cyndi\" Lauper",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 75,
+        "question": "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?",
+        "gold_answer": "the \"First Family of Competitive Eating\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 76,
+        "question": "What American composer born in 1937 pioneered minimal music?",
+        "gold_answer": "Philip Morris Glass",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 77,
+        "question": "What political office was held by two successive occupants of the same castle located in Lauderdale, Scotland?",
+        "gold_answer": "Keeper of the Privy Seal of Scotland",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 78,
+        "question": "Who founded the honky tonk that is at the center  of John Travolta's  third major acting role?",
+        "gold_answer": "Mickey Gilley",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 79,
+        "question": "What is the name of the father of Childericus?",
+        "gold_answer": "Merovech",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 80,
+        "question": "Which band was formed first, Lit or Adorable?",
+        "gold_answer": "Adorable",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 81,
+        "question": "who influenced the electronic dance music who  made  Scotch Hausen album",
+        "gold_answer": "hardcore",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 82,
+        "question": "Black Book starred the actress and writer of what heritage?",
+        "gold_answer": "Dutch",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 83,
+        "question": "Brian Olsen was the lst WEC heavyweight champion before the promotion company founded in what month purchased the organization?",
+        "gold_answer": "January 2001",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 84,
+        "question": "Which of Kylian Hazard's older brothers plays for the German Bundesliga club Borussia Mönchengladbach and the Belgium national team.",
+        "gold_answer": "Thorgan Ganael Francis Hazard",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 85,
+        "question": "Wing Chun starred Michelle Yeoh and a Hong Kong actor, martial artist, and film director who won what tournament multiple times?",
+        "gold_answer": "world wushu tournament",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 86,
+        "question": "What character in \"Father Ted\" was played by an actor who starred in Death in Paradise?",
+        "gold_answer": "Father Dougal McGuire",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 87,
+        "question": "Who is older between the brothers that J. Todd Anderson has primarily worked with?",
+        "gold_answer": "Joel David Coen",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 88,
+        "question": "Who owns the hotel where the 13th Anniversary Show took place?",
+        "gold_answer": "Boyd Gaming",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 89,
+        "question": "Immanuel Lutheran School is affiliated with the denomination that has how many members?",
+        "gold_answer": "2.1 million",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 90,
+        "question": "What was the code name of The landing barge primarily used to provide hot meals to the landing crew?",
+        "gold_answer": "Operation Neptune",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 91,
+        "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+        "gold_answer": "Boeing EA-18G Growler",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 92,
+        "question": "For which NBA team did the MVP of the 2013 McDonald's All-American Boys Game play?",
+        "gold_answer": "Orlando Magic",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 93,
+        "question": "When was the American automobile club which has 2014 Trans-Am Series as the 46th running of the Sports formed? ",
+        "gold_answer": "1944",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 94,
+        "question": "What is the population of the city in which the first edition of the South American Youth Olympic Games were held?",
+        "gold_answer": "more than 10 million",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 95,
+        "question": "Who constructed Auburn the Antebellum mansion and was accused of the Manhattan Well Murder?",
+        "gold_answer": "Levi Weeks",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 96,
+        "question": "What kind of person of authority does Governor of Sheerness and Stapleton Cotton, 1st Viscount Combermere have in common?",
+        "gold_answer": "officer",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 97,
+        "question": "What was the name of the publisher who published \"Finnegans Wake\" in 1939 by James Joyce",
+        "gold_answer": "Teriade",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 98,
+        "question": "What was the address of the penitentiary where Jimmy Elliot was sentenced?",
+        "gold_answer": "2027 Fairmount Avenue",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 99,
+        "question": "in the 2004 Hockey film produced by a former major league baseball pitcher who played the USA coach?",
+        "gold_answer": "Kurt Russell",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 100,
+        "question": "In regards to Value premium an expert argued that no value premium exisits, what did this expert found?",
+        "gold_answer": "The Vanguard Group",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 101,
+        "question": "What is the founding year of this public research university in the Netherlands, where Jan Borgman was a professor from 1968 to 1988?",
+        "gold_answer": "1614",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 102,
+        "question": "This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.",
+        "gold_answer": "Robert \"Bobby\" Bunda",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 103,
+        "question": "Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?",
+        "gold_answer": "London, England",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 104,
+        "question": "What is the focus of the movie in which Nolan North played the role of Superboy?",
+        "gold_answer": "focus on young superheroes",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 105,
+        "question": "Were both Monkey Kingdom and Anaganaga O Dheerudu connected with Disney?",
+        "gold_answer": "yes",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 106,
+        "question": "Temagami-Lorrain Mine and Burwash Mine were both mines created during the early 1900s; which one yielded a 16-ton bulk sample of gold ore in 1935?",
+        "gold_answer": "Burwash Mine",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 107,
+        "question": "What county in Minnesota holds a 202 lb slab of greywacke covered in runes?",
+        "gold_answer": "Douglas",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 108,
+        "question": "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank?",
+        "gold_answer": "Twin Pines/Lone Pine Mall",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 109,
+        "question": "Tamanchey is a comedy film that starred the actress who works in what type of films?",
+        "gold_answer": "Hindi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 110,
+        "question": "The Northern Chamber Orchestra gives concerts at what estate owned by the National Trust?",
+        "gold_answer": "Tatton Park",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 111,
+        "question": "Which star of \"Chalet Girl\" also appeared in \"The Treasure Seekers\"?",
+        "gold_answer": "Felicity Rose Hadley Jones",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 112,
+        "question": "In regards to the high school that forced Manchester High School to change its name in 1922, when was its first graduating class?",
+        "gold_answer": "June 1925",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 113,
+        "question": "What year was the song that some critics compared to \"Fading\" released? ",
+        "gold_answer": "2008",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 114,
+        "question": "What is another name for the LRA featured in A Brilliant Genocide?",
+        "gold_answer": "United Holy Salvation Army and Uganda Christian Army/Movement",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 115,
+        "question": "Charlie McDermott plays Axl Heck on a tv show that premiered in what date? ",
+        "gold_answer": "September 30, 2009",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 116,
+        "question": "What Dances with the Wolves star had a role in Powwow Highway?",
+        "gold_answer": "Wesley \"Wes\" Studi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 117,
+        "question": "Who created the show that featured Triumph the Insult Comic Dog?",
+        "gold_answer": "Robert Smigel, Michael Koman and David Feldman",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 118,
+        "question": "The tap dancing soloist in My Feet Keep Dancing also starred in what 1935 MGM musical?",
+        "gold_answer": "\"An All-Colored Vaudeville Show\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 119,
+        "question": "What type of auto racing, performed on clay or dirt surfaced oval tracks, is run for the Australian Street Stock Championship? ",
+        "gold_answer": "Dirt track racing",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 120,
+        "question": "What year was the namesake of a small island in the Town of East Hampton born?",
+        "gold_answer": "1599",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 121,
+        "question": "Peter Marc Jacobson is best known as the co-creator of the popular sitcom \"The Nanny\", which he created and wrote with his then wife an actress born in which year ?",
+        "gold_answer": "1957",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 122,
+        "question": "Who was the brother of the architect of Hook and Ladder No. 4 located in Albany, NY?",
+        "gold_answer": "Cuyler Reynolds",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 123,
+        "question": "Bethpage State Parkway begins with an interchange at which Long Island-based limited access highway?",
+        "gold_answer": "Southern State Parkway",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 124,
+        "question": "1990 Film Lionheart stars this actor who is best known for what type of films?",
+        "gold_answer": "martial arts action films",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 125,
+        "question": "How is the namesake of The Mountbatten Institute related to Elizabeth II?",
+        "gold_answer": "second cousin once removed",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 126,
+        "question": "At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?",
+        "gold_answer": "fortnightly",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 127,
+        "question": "Which brand of canned cooked meat by Hormel Foods Corporation is used to make a popular snack and lunch food in Hawaii?",
+        "gold_answer": "Spam",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 128,
+        "question": "Which plant genus has a longer common name, Myrtus or Eustoma?",
+        "gold_answer": "Eustoma",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 129,
+        "question": "What films were the basis for \"Family Guy\" and the character of Peter Griffith? ",
+        "gold_answer": "The Life of Larry and Larry & Steve",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 130,
+        "question": "How many yards did the nephew of Ivory Lee Brown get during his 2004 true freshman season?",
+        "gold_answer": "1,925 yards",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 131,
+        "question": "Belle & Sebastian: The Adventure Continues is the sequel to the 2013 film \"Belle and Sebastian\", a French adventure film directed by who?",
+        "gold_answer": "Nicolas Vanier",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 132,
+        "question": "Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole on what date?",
+        "gold_answer": "March 30, 2025",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 133,
+        "question": "Are Peter Balakian and James Der Derian both teachers?",
+        "gold_answer": "yes",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 134,
+        "question": "In which St. Louis Cardinal season did a player born in 1972 blow ten saves before undergoing season-ending hip surgery?",
+        "gold_answer": "2006 season",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 135,
+        "question": "Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?",
+        "gold_answer": "Scott Adkins",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 136,
+        "question": "Liverpool nurse Mimi Smith was the aunt and guardian of which one of the city's most famous sons?",
+        "gold_answer": "John Lennon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 137,
+        "question": "Out of two American colonies that had a series of skirmishes and raids between 1701 and 1765 at the disputed border, which British proprietary colony became a royal colony on the northeast coast of North America?",
+        "gold_answer": "Province of New York",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 138,
+        "question": "Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?",
+        "gold_answer": "Caesars Palace Grand Prix",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 139,
+        "question": "What is the name of Bruce Willis's character in Unbreakable?",
+        "gold_answer": "David Dunn",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 140,
+        "question": "How many degrees and minutes south of the equator are the bone fragments of the extinct Ascension night heron found?",
+        "gold_answer": "7°56'",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 141,
+        "question": "Jon S. Cardin is the nephew of a senator who has been in office since when ?",
+        "gold_answer": "since 2007",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 142,
+        "question": "Chris Jones is a semi-professional footballer, who played with what goalkeeper for Derby County when he was with Yorkshire?",
+        "gold_answer": "Scott Paul Carson",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 143,
+        "question": "What former president of ABC television is a high ranking officer in the same company as Christine Mccarthy?",
+        "gold_answer": "Robert A. Iger",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 144,
+        "question": "Show Her is a song written by a country music artist who is also a former player of what sport?",
+        "gold_answer": "American football",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 145,
+        "question": "House of Many Ways is a young adult fantasy novel set in the same world as a novel that was adapted as an animated film of the same name and nominated for what?",
+        "gold_answer": "Academy Award for Best Animated Feature",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 146,
+        "question": "What NFL team did the 2017 ESPN College Football Friday Primetime host who played at Oklahoma in college play for?",
+        "gold_answer": "the Bears",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 147,
+        "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+        "gold_answer": "great-grandfather",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 148,
+        "question": "Who is the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?",
+        "gold_answer": "William Shakespeare",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 149,
+        "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+        "gold_answer": "fictional character",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 150,
+        "question": "What distinction about his birth makes the contemporary of Bill Pollack unique as a winner of the Formula One World Drivers' Championship?",
+        "gold_answer": "American-born",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 151,
+        "question": "What musical action does Ndebele music and Musical bow have in common?",
+        "gold_answer": "played",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 152,
+        "question": " Billy Preston is an American college basketball player for a team that competes in what?",
+        "gold_answer": "the Big 12 Conference",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 153,
+        "question": "Nicolau Colaco played as a defender in the men's professional league sponsored by which company?",
+        "gold_answer": "Hero",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 154,
+        "question": "What award did the writer of Never Let Me Go novel win in 1989?",
+        "gold_answer": "Man Booker Prize for Fiction",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 155,
+        "question": "The Cineplex Odeon Theatres are now operated as which American movie theater chain majority-owned by Chinese conglomerate Dalian Wanda Group?",
+        "gold_answer": "AMC Theatres",
+        "predicted": "A",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "method": "PISCO-Inspired",
+    "accuracy": 0.6538,
+    "avg_tokens": 928.2,
+    "total_samples": 156,
+    "correct": 102,
+    "total_time_seconds": 167.7,
+    "detailed_results": [
+      {
+        "index": 0,
+        "question": "Scott Workman was an American stuntman and actor credited with a successful show on what smaller TV Network?",
+        "gold_answer": "WB Television Network",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 1,
+        "question": "Telos was an album by a band who formed in what city?",
+        "gold_answer": "Indianapolis",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 2,
+        "question": "Lawerence Turman had produced a film, with a character named \"Johnny 5\" that had a follow up sequel released in what year?",
+        "gold_answer": "1988",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 3,
+        "question": "What rank was higher than Karl Hermann Frank's rank until April 1942?",
+        "gold_answer": "Reichsführer-SS",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 4,
+        "question": " Force India VJM10 is a Formula One racing car previous driven by Nico Hülkenberg, and is now driven by which driver born 17 September 1996?",
+        "gold_answer": "Esteban Ocon",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 5,
+        "question": "Radha Jayalakshmi and the Priya sisters were both duo's in what music style? ",
+        "gold_answer": "Carnatic music",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 6,
+        "question": "What is the name of the number-one single featuring the winner of Celebrity Apprentice 3?",
+        "gold_answer": "Every Rose Has Its Thorn",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 7,
+        "question": "What song by the American rapper Coolio is on his greatest hits album \"Fantiastic Voyage\" and samples from a Stevie Wonder song?",
+        "gold_answer": "Gangsta's Paradise",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 8,
+        "question": "Which of the music composed for Operation Amsterdam originated in the middle of the 19th century in Bohemia, now part of the Czech Republic?",
+        "gold_answer": "Polka",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 9,
+        "question": "Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?",
+        "gold_answer": "Francisco Rafael Arellano Félix",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 10,
+        "question": "The actress who made her film debut in Friday Night Lights also starred in a 2014 French-American crime-thriller directed by whi?",
+        "gold_answer": "McG",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 11,
+        "question": "In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?",
+        "gold_answer": "Campbellsville University",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 12,
+        "question": "Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",
+        "gold_answer": "GE Appliances",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 13,
+        "question": "PISCES was developed by the company that is headquartered in what city?",
+        "gold_answer": "McLean, Virginia",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 14,
+        "question": "How many species of Hawaiian hibiscus do not have white flowers?",
+        "gold_answer": "250",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 15,
+        "question": "Marvel Classics Comics specialized in adaptations of literary classics, such as a novel by American writer Herman Melville, that was published in what year?",
+        "gold_answer": "1851",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 16,
+        "question": "When was the Chief Aerodynamicist for the British supersonic land vehicle, whose goal is to match or exceed 1000 mph achieving a new world land speed record, born?",
+        "gold_answer": "1932",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 17,
+        "question": "Which reservation is located in Hill and Chouteau and named after the principal leader of the Montana Chippewa-Cree?",
+        "gold_answer": "Rocky Boy's Indian Reservation",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 18,
+        "question": "Jihad: A Story of the Others is a documentary by the director who is of what descent?",
+        "gold_answer": "Punjabi/Pashtun",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 19,
+        "question": "Who was the main vocal of \"Set the Fire to the Third Bar\"?",
+        "gold_answer": "Gary Lightbody",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 20,
+        "question": "In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?",
+        "gold_answer": "Australian",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 21,
+        "question": "Cheek to cheek tour played shows at what place that is located on the Las Vegas strip that began their tour?",
+        "gold_answer": "Cosmopolitan of Las Vegas",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 22,
+        "question": "Do the operas Vanessa and Le roi malgré lui contain that same number of acts?",
+        "gold_answer": "yes",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 23,
+        "question": "What was Terry Owen's son's profession after retiring from football?",
+        "gold_answer": "racehorse breeder and owner",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 24,
+        "question": "Where was the only European Cup Final in which Jupp Heynkes played held?",
+        "gold_answer": "Stadio Olimpico",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 25,
+        "question": "The USS Tortuga was named after the Dry Tortugas, a group of desert coral islets 60 miles west of which city with the motto \"One Human Family\"?",
+        "gold_answer": "Key West",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 26,
+        "question": "The producer of the Eric Church album \"The Outsiders\" was a member of what band in the 1980's?",
+        "gold_answer": "In Pursuit",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 27,
+        "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+        "gold_answer": "Justin Spitzer",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 28,
+        "question": "The Bodie & Benton Railway was a narrow gauge common carrier railroad in California, from the Mono Mills to a terminus in a ghost town located how many miles away from Lake Tahoe ?",
+        "gold_answer": "75 mi",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 29,
+        "question": "Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?",
+        "gold_answer": "The Changing Scottish Landscape",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 30,
+        "question": "Which American car rental company is also a member of the Association of Car Rental Industry Sytems Standards?",
+        "gold_answer": "Budget Rent a Car",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 31,
+        "question": "The competition Lev Oborin won in 1927 is held in what city?",
+        "gold_answer": "Warsaw, Poland",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 32,
+        "question": "Which town has a greater population as of the 2010 census, Minden, Nevada or Gardnerville, Nevada?",
+        "gold_answer": "Gardnerville",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 33,
+        "question": "Which tennis player is from a country closer to Canada, Ken Flach or Lucie Šafářová?",
+        "gold_answer": "Kenneth Eliot Flach",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 34,
+        "question": "What year was the author of Cock and Bull born? ",
+        "gold_answer": "1961",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 35,
+        "question": "What job did Newt Gingrich have prior to producing Nine Days that Changed the World?",
+        "gold_answer": "former Speaker of the U.S. House of Representatives",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 36,
+        "question": "The Polar Bear and Daiquiri are both examples of what?",
+        "gold_answer": "cocktails",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 37,
+        "question": "What is the name of the company that wholly owns the Value Alliance airline whose head office is within Terminal 2 of Narita International Airport?",
+        "gold_answer": "All Nippon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 38,
+        "question": "When did the character on Grey's Anatomy, played by the same actor who portrayed Rev James Lawson in \"Lee Daniel's The Butler\", debut?",
+        "gold_answer": "season six, episode 5, \"Invasion\"",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 39,
+        "question": "What religion is the composer for India's first science fiction film series?",
+        "gold_answer": "Hindi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 40,
+        "question": "What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?",
+        "gold_answer": "WAMC",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 41,
+        "question": "The third emperor in the Year of the Four Emperors had how many wives? ",
+        "gold_answer": "second",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 42,
+        "question": "Hudson Austin formed a military government with himself as chairman to rule Grenada, after the killing of a Grenadian politician who was the leader of what movement that was an effort in the areas of socio-economic development, education, and black liberation?",
+        "gold_answer": "New Jewel Movement",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 43,
+        "question": "Which magazine is focused more on the adult demographic, Jack and Jill or Paper?",
+        "gold_answer": "Paper",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 44,
+        "question": "The members of the von Trapp musical group are related to which woman who wrote \"The Story of the Trapp Family Singers\"?",
+        "gold_answer": "Maria von Trapp",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 45,
+        "question": "Who is the American actress performed \"Take On The World\" with Sabrina Carpenter?",
+        "gold_answer": "Rowan Blanchard",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 46,
+        "question": "The Black Belly of the Tarantula starred an actress who married what former member of the Beatles?",
+        "gold_answer": "Ringo Starr",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 47,
+        "question": "What dance academy did the starring actress from The Glory of Tang Dynasty graduate from?",
+        "gold_answer": "Beijing Dance Academy",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 48,
+        "question": "The Birthday of the World: and Other Stories was written by what fantasy and sci-fi author?",
+        "gold_answer": "Ursula Kroeber Le Guin",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 49,
+        "question": "The author of the \"The Dagger and the Coin\" fantasy series was nominated for what award in 2017?",
+        "gold_answer": "Hugo Award",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 50,
+        "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+        "gold_answer": "professional wrestler, actor, and hip hop musician",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 51,
+        "question": "Lawton–Fort Sill Regional Airport, a charter base for value airline Allegiant Air, is situated in which U.S. state?",
+        "gold_answer": "Oklahoma",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 52,
+        "question": "Which person, William Blake Herron or John Carpenter, held more diverse roles in the movie industry?",
+        "gold_answer": "musician, editor and composer.",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 53,
+        "question": "Keanu is a 2016 American action comedy film directed by Peter Atencio and written by who?",
+        "gold_answer": "Jordan Peele",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 54,
+        "question": "Where was the host of Australia's Got Talent born?",
+        "gold_answer": "Warrnambool, Victoria",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 55,
+        "question": "Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?",
+        "gold_answer": "Giuseppe Verdi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 56,
+        "question": "Naval Air Station Ellyson Field was an auxiliary facility to the air station in which community?",
+        "gold_answer": "Warrington",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 57,
+        "question": "What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?",
+        "gold_answer": "Sex Drive",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 58,
+        "question": "The birthplace of George McCall Theal is a port city of what bay?",
+        "gold_answer": "Bay of Fundy",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 59,
+        "question": "Whose native growing land is more south, Beech or Daviesia?",
+        "gold_answer": "Daviesia",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 60,
+        "question": "Russia Soviet pianist, composer and teacher, Tatiana Nikolayeva taught what Polish pianist and music educator?",
+        "gold_answer": "Maria Szraiber",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 61,
+        "question": "What theory was advanced by the author of Progress in Optics?",
+        "gold_answer": "theory of direct scattering and inverse scattering",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 62,
+        "question": "Why is Minister Pool important to Black Country and the West Midlands in England?",
+        "gold_answer": "defence of the Cathedral",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 63,
+        "question": "Which American singer-songwriter toured with J.P. Doherty in 2007 on Cyndi Lauper's True Colors tour?",
+        "gold_answer": "Debbie Harry",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 64,
+        "question": " Which 1970's film was released first, Charley and the Angel or The Boatniks?",
+        "gold_answer": "The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 65,
+        "question": "M.F.A. starred the actress known for starring in what E! reality series?",
+        "gold_answer": "Mrs. Eastwood & Company",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 66,
+        "question": "The creek of which Paradise Creek is a tributary is a tributary of what river?",
+        "gold_answer": "Delaware River",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 67,
+        "question": "What tribe was the Megaoryzomys curioi previously in that Nesoryzomys are also in?",
+        "gold_answer": "Oryzomyini",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 68,
+        "question": "When did the Disney sitcom in which Genevieve Knight \"G\" Hannelius starred as Avery Jennings end?",
+        "gold_answer": "October 16, 2015",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 69,
+        "question": "Keene is an unincorporated community in Wabaunsee County, Kansas, in what federal republic composed of 50 states?",
+        "gold_answer": "The United States of America",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 70,
+        "question": "In which genus number of species are more, Lavatera or Oplismenus?",
+        "gold_answer": "Oplismenus",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 71,
+        "question": "What was Robert M. Fomon's connection to the New York Stock Exchange located at 11 Wall Street, Lower Manhattan, New York City, New York?",
+        "gold_answer": "a governor",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 72,
+        "question": "Liz Rose has co-written songs with which artist including \"White Horse\" and \"You Belong with Me\"?",
+        "gold_answer": "Taylor Swift",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 73,
+        "question": "where is the  a county where  Purcell can be found located ",
+        "gold_answer": "the U.S. state of Kansas",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 74,
+        "question": "The True Colors World Tour was by what artist whose debut album was \"She's So Unusual\"?",
+        "gold_answer": "Cynthia Ann Stephanie \"Cyndi\" Lauper",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 75,
+        "question": "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?",
+        "gold_answer": "the \"First Family of Competitive Eating\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 76,
+        "question": "What American composer born in 1937 pioneered minimal music?",
+        "gold_answer": "Philip Morris Glass",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 77,
+        "question": "What political office was held by two successive occupants of the same castle located in Lauderdale, Scotland?",
+        "gold_answer": "Keeper of the Privy Seal of Scotland",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 78,
+        "question": "Who founded the honky tonk that is at the center  of John Travolta's  third major acting role?",
+        "gold_answer": "Mickey Gilley",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 79,
+        "question": "What is the name of the father of Childericus?",
+        "gold_answer": "Merovech",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 80,
+        "question": "Which band was formed first, Lit or Adorable?",
+        "gold_answer": "Adorable",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 81,
+        "question": "who influenced the electronic dance music who  made  Scotch Hausen album",
+        "gold_answer": "hardcore",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 82,
+        "question": "Black Book starred the actress and writer of what heritage?",
+        "gold_answer": "Dutch",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 83,
+        "question": "Brian Olsen was the lst WEC heavyweight champion before the promotion company founded in what month purchased the organization?",
+        "gold_answer": "January 2001",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 84,
+        "question": "Which of Kylian Hazard's older brothers plays for the German Bundesliga club Borussia Mönchengladbach and the Belgium national team.",
+        "gold_answer": "Thorgan Ganael Francis Hazard",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 85,
+        "question": "Wing Chun starred Michelle Yeoh and a Hong Kong actor, martial artist, and film director who won what tournament multiple times?",
+        "gold_answer": "world wushu tournament",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 86,
+        "question": "What character in \"Father Ted\" was played by an actor who starred in Death in Paradise?",
+        "gold_answer": "Father Dougal McGuire",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 87,
+        "question": "Who is older between the brothers that J. Todd Anderson has primarily worked with?",
+        "gold_answer": "Joel David Coen",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 88,
+        "question": "Who owns the hotel where the 13th Anniversary Show took place?",
+        "gold_answer": "Boyd Gaming",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 89,
+        "question": "Immanuel Lutheran School is affiliated with the denomination that has how many members?",
+        "gold_answer": "2.1 million",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 90,
+        "question": "What was the code name of The landing barge primarily used to provide hot meals to the landing crew?",
+        "gold_answer": "Operation Neptune",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 91,
+        "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+        "gold_answer": "Boeing EA-18G Growler",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 92,
+        "question": "For which NBA team did the MVP of the 2013 McDonald's All-American Boys Game play?",
+        "gold_answer": "Orlando Magic",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 93,
+        "question": "When was the American automobile club which has 2014 Trans-Am Series as the 46th running of the Sports formed? ",
+        "gold_answer": "1944",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 94,
+        "question": "What is the population of the city in which the first edition of the South American Youth Olympic Games were held?",
+        "gold_answer": "more than 10 million",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 95,
+        "question": "Who constructed Auburn the Antebellum mansion and was accused of the Manhattan Well Murder?",
+        "gold_answer": "Levi Weeks",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 96,
+        "question": "What kind of person of authority does Governor of Sheerness and Stapleton Cotton, 1st Viscount Combermere have in common?",
+        "gold_answer": "officer",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 97,
+        "question": "What was the name of the publisher who published \"Finnegans Wake\" in 1939 by James Joyce",
+        "gold_answer": "Teriade",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 98,
+        "question": "What was the address of the penitentiary where Jimmy Elliot was sentenced?",
+        "gold_answer": "2027 Fairmount Avenue",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 99,
+        "question": "in the 2004 Hockey film produced by a former major league baseball pitcher who played the USA coach?",
+        "gold_answer": "Kurt Russell",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 100,
+        "question": "In regards to Value premium an expert argued that no value premium exisits, what did this expert found?",
+        "gold_answer": "The Vanguard Group",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 101,
+        "question": "What is the founding year of this public research university in the Netherlands, where Jan Borgman was a professor from 1968 to 1988?",
+        "gold_answer": "1614",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 102,
+        "question": "This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.",
+        "gold_answer": "Robert \"Bobby\" Bunda",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 103,
+        "question": "Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?",
+        "gold_answer": "London, England",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 104,
+        "question": "What is the focus of the movie in which Nolan North played the role of Superboy?",
+        "gold_answer": "focus on young superheroes",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 105,
+        "question": "Were both Monkey Kingdom and Anaganaga O Dheerudu connected with Disney?",
+        "gold_answer": "yes",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 106,
+        "question": "Temagami-Lorrain Mine and Burwash Mine were both mines created during the early 1900s; which one yielded a 16-ton bulk sample of gold ore in 1935?",
+        "gold_answer": "Burwash Mine",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 107,
+        "question": "What county in Minnesota holds a 202 lb slab of greywacke covered in runes?",
+        "gold_answer": "Douglas",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 108,
+        "question": "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank?",
+        "gold_answer": "Twin Pines/Lone Pine Mall",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 109,
+        "question": "Tamanchey is a comedy film that starred the actress who works in what type of films?",
+        "gold_answer": "Hindi",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 110,
+        "question": "The Northern Chamber Orchestra gives concerts at what estate owned by the National Trust?",
+        "gold_answer": "Tatton Park",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 111,
+        "question": "Which star of \"Chalet Girl\" also appeared in \"The Treasure Seekers\"?",
+        "gold_answer": "Felicity Rose Hadley Jones",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 112,
+        "question": "In regards to the high school that forced Manchester High School to change its name in 1922, when was its first graduating class?",
+        "gold_answer": "June 1925",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 113,
+        "question": "What year was the song that some critics compared to \"Fading\" released? ",
+        "gold_answer": "2008",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 114,
+        "question": "What is another name for the LRA featured in A Brilliant Genocide?",
+        "gold_answer": "United Holy Salvation Army and Uganda Christian Army/Movement",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 115,
+        "question": "Charlie McDermott plays Axl Heck on a tv show that premiered in what date? ",
+        "gold_answer": "September 30, 2009",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 116,
+        "question": "What Dances with the Wolves star had a role in Powwow Highway?",
+        "gold_answer": "Wesley \"Wes\" Studi",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 117,
+        "question": "Who created the show that featured Triumph the Insult Comic Dog?",
+        "gold_answer": "Robert Smigel, Michael Koman and David Feldman",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 118,
+        "question": "The tap dancing soloist in My Feet Keep Dancing also starred in what 1935 MGM musical?",
+        "gold_answer": "\"An All-Colored Vaudeville Show\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 119,
+        "question": "What type of auto racing, performed on clay or dirt surfaced oval tracks, is run for the Australian Street Stock Championship? ",
+        "gold_answer": "Dirt track racing",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 120,
+        "question": "What year was the namesake of a small island in the Town of East Hampton born?",
+        "gold_answer": "1599",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 121,
+        "question": "Peter Marc Jacobson is best known as the co-creator of the popular sitcom \"The Nanny\", which he created and wrote with his then wife an actress born in which year ?",
+        "gold_answer": "1957",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 122,
+        "question": "Who was the brother of the architect of Hook and Ladder No. 4 located in Albany, NY?",
+        "gold_answer": "Cuyler Reynolds",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 123,
+        "question": "Bethpage State Parkway begins with an interchange at which Long Island-based limited access highway?",
+        "gold_answer": "Southern State Parkway",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 124,
+        "question": "1990 Film Lionheart stars this actor who is best known for what type of films?",
+        "gold_answer": "martial arts action films",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 125,
+        "question": "How is the namesake of The Mountbatten Institute related to Elizabeth II?",
+        "gold_answer": "second cousin once removed",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 126,
+        "question": "At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?",
+        "gold_answer": "fortnightly",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 127,
+        "question": "Which brand of canned cooked meat by Hormel Foods Corporation is used to make a popular snack and lunch food in Hawaii?",
+        "gold_answer": "Spam",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 128,
+        "question": "Which plant genus has a longer common name, Myrtus or Eustoma?",
+        "gold_answer": "Eustoma",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 129,
+        "question": "What films were the basis for \"Family Guy\" and the character of Peter Griffith? ",
+        "gold_answer": "The Life of Larry and Larry & Steve",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 130,
+        "question": "How many yards did the nephew of Ivory Lee Brown get during his 2004 true freshman season?",
+        "gold_answer": "1,925 yards",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 131,
+        "question": "Belle & Sebastian: The Adventure Continues is the sequel to the 2013 film \"Belle and Sebastian\", a French adventure film directed by who?",
+        "gold_answer": "Nicolas Vanier",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 132,
+        "question": "Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole on what date?",
+        "gold_answer": "March 30, 2025",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 133,
+        "question": "Are Peter Balakian and James Der Derian both teachers?",
+        "gold_answer": "yes",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 134,
+        "question": "In which St. Louis Cardinal season did a player born in 1972 blow ten saves before undergoing season-ending hip surgery?",
+        "gold_answer": "2006 season",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 135,
+        "question": "Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?",
+        "gold_answer": "Scott Adkins",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 136,
+        "question": "Liverpool nurse Mimi Smith was the aunt and guardian of which one of the city's most famous sons?",
+        "gold_answer": "John Lennon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 137,
+        "question": "Out of two American colonies that had a series of skirmishes and raids between 1701 and 1765 at the disputed border, which British proprietary colony became a royal colony on the northeast coast of North America?",
+        "gold_answer": "Province of New York",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 138,
+        "question": "Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?",
+        "gold_answer": "Caesars Palace Grand Prix",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 139,
+        "question": "What is the name of Bruce Willis's character in Unbreakable?",
+        "gold_answer": "David Dunn",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 140,
+        "question": "How many degrees and minutes south of the equator are the bone fragments of the extinct Ascension night heron found?",
+        "gold_answer": "7°56'",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 141,
+        "question": "Jon S. Cardin is the nephew of a senator who has been in office since when ?",
+        "gold_answer": "since 2007",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 142,
+        "question": "Chris Jones is a semi-professional footballer, who played with what goalkeeper for Derby County when he was with Yorkshire?",
+        "gold_answer": "Scott Paul Carson",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 143,
+        "question": "What former president of ABC television is a high ranking officer in the same company as Christine Mccarthy?",
+        "gold_answer": "Robert A. Iger",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 144,
+        "question": "Show Her is a song written by a country music artist who is also a former player of what sport?",
+        "gold_answer": "American football",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 145,
+        "question": "House of Many Ways is a young adult fantasy novel set in the same world as a novel that was adapted as an animated film of the same name and nominated for what?",
+        "gold_answer": "Academy Award for Best Animated Feature",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 146,
+        "question": "What NFL team did the 2017 ESPN College Football Friday Primetime host who played at Oklahoma in college play for?",
+        "gold_answer": "the Bears",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 147,
+        "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+        "gold_answer": "great-grandfather",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 148,
+        "question": "Who is the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?",
+        "gold_answer": "William Shakespeare",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 149,
+        "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+        "gold_answer": "fictional character",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 150,
+        "question": "What distinction about his birth makes the contemporary of Bill Pollack unique as a winner of the Formula One World Drivers' Championship?",
+        "gold_answer": "American-born",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 151,
+        "question": "What musical action does Ndebele music and Musical bow have in common?",
+        "gold_answer": "played",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 152,
+        "question": " Billy Preston is an American college basketball player for a team that competes in what?",
+        "gold_answer": "the Big 12 Conference",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 153,
+        "question": "Nicolau Colaco played as a defender in the men's professional league sponsored by which company?",
+        "gold_answer": "Hero",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 154,
+        "question": "What award did the writer of Never Let Me Go novel win in 1989?",
+        "gold_answer": "Man Booker Prize for Fiction",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 155,
+        "question": "The Cineplex Odeon Theatres are now operated as which American movie theater chain majority-owned by Chinese conglomerate Dalian Wanda Group?",
+        "gold_answer": "AMC Theatres",
+        "predicted": "A",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "method": "xRAG-Proxy",
+    "accuracy": 0.6667,
+    "avg_tokens": 636.2,
+    "total_samples": 156,
+    "correct": 104,
+    "total_time_seconds": 170.9,
+    "detailed_results": [
+      {
+        "index": 0,
+        "question": "Scott Workman was an American stuntman and actor credited with a successful show on what smaller TV Network?",
+        "gold_answer": "WB Television Network",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 1,
+        "question": "Telos was an album by a band who formed in what city?",
+        "gold_answer": "Indianapolis",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 2,
+        "question": "Lawerence Turman had produced a film, with a character named \"Johnny 5\" that had a follow up sequel released in what year?",
+        "gold_answer": "1988",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 3,
+        "question": "What rank was higher than Karl Hermann Frank's rank until April 1942?",
+        "gold_answer": "Reichsführer-SS",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 4,
+        "question": " Force India VJM10 is a Formula One racing car previous driven by Nico Hülkenberg, and is now driven by which driver born 17 September 1996?",
+        "gold_answer": "Esteban Ocon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 5,
+        "question": "Radha Jayalakshmi and the Priya sisters were both duo's in what music style? ",
+        "gold_answer": "Carnatic music",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 6,
+        "question": "What is the name of the number-one single featuring the winner of Celebrity Apprentice 3?",
+        "gold_answer": "Every Rose Has Its Thorn",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 7,
+        "question": "What song by the American rapper Coolio is on his greatest hits album \"Fantiastic Voyage\" and samples from a Stevie Wonder song?",
+        "gold_answer": "Gangsta's Paradise",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 8,
+        "question": "Which of the music composed for Operation Amsterdam originated in the middle of the 19th century in Bohemia, now part of the Czech Republic?",
+        "gold_answer": "Polka",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 9,
+        "question": "Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?",
+        "gold_answer": "Francisco Rafael Arellano Félix",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 10,
+        "question": "The actress who made her film debut in Friday Night Lights also starred in a 2014 French-American crime-thriller directed by whi?",
+        "gold_answer": "McG",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 11,
+        "question": "In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?",
+        "gold_answer": "Campbellsville University",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 12,
+        "question": "Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",
+        "gold_answer": "GE Appliances",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 13,
+        "question": "PISCES was developed by the company that is headquartered in what city?",
+        "gold_answer": "McLean, Virginia",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 14,
+        "question": "How many species of Hawaiian hibiscus do not have white flowers?",
+        "gold_answer": "250",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 15,
+        "question": "Marvel Classics Comics specialized in adaptations of literary classics, such as a novel by American writer Herman Melville, that was published in what year?",
+        "gold_answer": "1851",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 16,
+        "question": "When was the Chief Aerodynamicist for the British supersonic land vehicle, whose goal is to match or exceed 1000 mph achieving a new world land speed record, born?",
+        "gold_answer": "1932",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 17,
+        "question": "Which reservation is located in Hill and Chouteau and named after the principal leader of the Montana Chippewa-Cree?",
+        "gold_answer": "Rocky Boy's Indian Reservation",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 18,
+        "question": "Jihad: A Story of the Others is a documentary by the director who is of what descent?",
+        "gold_answer": "Punjabi/Pashtun",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 19,
+        "question": "Who was the main vocal of \"Set the Fire to the Third Bar\"?",
+        "gold_answer": "Gary Lightbody",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 20,
+        "question": "In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?",
+        "gold_answer": "Australian",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 21,
+        "question": "Cheek to cheek tour played shows at what place that is located on the Las Vegas strip that began their tour?",
+        "gold_answer": "Cosmopolitan of Las Vegas",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 22,
+        "question": "Do the operas Vanessa and Le roi malgré lui contain that same number of acts?",
+        "gold_answer": "yes",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 23,
+        "question": "What was Terry Owen's son's profession after retiring from football?",
+        "gold_answer": "racehorse breeder and owner",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 24,
+        "question": "Where was the only European Cup Final in which Jupp Heynkes played held?",
+        "gold_answer": "Stadio Olimpico",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 25,
+        "question": "The USS Tortuga was named after the Dry Tortugas, a group of desert coral islets 60 miles west of which city with the motto \"One Human Family\"?",
+        "gold_answer": "Key West",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 26,
+        "question": "The producer of the Eric Church album \"The Outsiders\" was a member of what band in the 1980's?",
+        "gold_answer": "In Pursuit",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 27,
+        "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+        "gold_answer": "Justin Spitzer",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 28,
+        "question": "The Bodie & Benton Railway was a narrow gauge common carrier railroad in California, from the Mono Mills to a terminus in a ghost town located how many miles away from Lake Tahoe ?",
+        "gold_answer": "75 mi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 29,
+        "question": "Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?",
+        "gold_answer": "The Changing Scottish Landscape",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 30,
+        "question": "Which American car rental company is also a member of the Association of Car Rental Industry Sytems Standards?",
+        "gold_answer": "Budget Rent a Car",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 31,
+        "question": "The competition Lev Oborin won in 1927 is held in what city?",
+        "gold_answer": "Warsaw, Poland",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 32,
+        "question": "Which town has a greater population as of the 2010 census, Minden, Nevada or Gardnerville, Nevada?",
+        "gold_answer": "Gardnerville",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 33,
+        "question": "Which tennis player is from a country closer to Canada, Ken Flach or Lucie Šafářová?",
+        "gold_answer": "Kenneth Eliot Flach",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 34,
+        "question": "What year was the author of Cock and Bull born? ",
+        "gold_answer": "1961",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 35,
+        "question": "What job did Newt Gingrich have prior to producing Nine Days that Changed the World?",
+        "gold_answer": "former Speaker of the U.S. House of Representatives",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 36,
+        "question": "The Polar Bear and Daiquiri are both examples of what?",
+        "gold_answer": "cocktails",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 37,
+        "question": "What is the name of the company that wholly owns the Value Alliance airline whose head office is within Terminal 2 of Narita International Airport?",
+        "gold_answer": "All Nippon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 38,
+        "question": "When did the character on Grey's Anatomy, played by the same actor who portrayed Rev James Lawson in \"Lee Daniel's The Butler\", debut?",
+        "gold_answer": "season six, episode 5, \"Invasion\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 39,
+        "question": "What religion is the composer for India's first science fiction film series?",
+        "gold_answer": "Hindi",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 40,
+        "question": "What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?",
+        "gold_answer": "WAMC",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 41,
+        "question": "The third emperor in the Year of the Four Emperors had how many wives? ",
+        "gold_answer": "second",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 42,
+        "question": "Hudson Austin formed a military government with himself as chairman to rule Grenada, after the killing of a Grenadian politician who was the leader of what movement that was an effort in the areas of socio-economic development, education, and black liberation?",
+        "gold_answer": "New Jewel Movement",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 43,
+        "question": "Which magazine is focused more on the adult demographic, Jack and Jill or Paper?",
+        "gold_answer": "Paper",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 44,
+        "question": "The members of the von Trapp musical group are related to which woman who wrote \"The Story of the Trapp Family Singers\"?",
+        "gold_answer": "Maria von Trapp",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 45,
+        "question": "Who is the American actress performed \"Take On The World\" with Sabrina Carpenter?",
+        "gold_answer": "Rowan Blanchard",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 46,
+        "question": "The Black Belly of the Tarantula starred an actress who married what former member of the Beatles?",
+        "gold_answer": "Ringo Starr",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 47,
+        "question": "What dance academy did the starring actress from The Glory of Tang Dynasty graduate from?",
+        "gold_answer": "Beijing Dance Academy",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 48,
+        "question": "The Birthday of the World: and Other Stories was written by what fantasy and sci-fi author?",
+        "gold_answer": "Ursula Kroeber Le Guin",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 49,
+        "question": "The author of the \"The Dagger and the Coin\" fantasy series was nominated for what award in 2017?",
+        "gold_answer": "Hugo Award",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 50,
+        "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+        "gold_answer": "professional wrestler, actor, and hip hop musician",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 51,
+        "question": "Lawton–Fort Sill Regional Airport, a charter base for value airline Allegiant Air, is situated in which U.S. state?",
+        "gold_answer": "Oklahoma",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 52,
+        "question": "Which person, William Blake Herron or John Carpenter, held more diverse roles in the movie industry?",
+        "gold_answer": "musician, editor and composer.",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 53,
+        "question": "Keanu is a 2016 American action comedy film directed by Peter Atencio and written by who?",
+        "gold_answer": "Jordan Peele",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 54,
+        "question": "Where was the host of Australia's Got Talent born?",
+        "gold_answer": "Warrnambool, Victoria",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 55,
+        "question": "Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?",
+        "gold_answer": "Giuseppe Verdi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 56,
+        "question": "Naval Air Station Ellyson Field was an auxiliary facility to the air station in which community?",
+        "gold_answer": "Warrington",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 57,
+        "question": "What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?",
+        "gold_answer": "Sex Drive",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 58,
+        "question": "The birthplace of George McCall Theal is a port city of what bay?",
+        "gold_answer": "Bay of Fundy",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 59,
+        "question": "Whose native growing land is more south, Beech or Daviesia?",
+        "gold_answer": "Daviesia",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 60,
+        "question": "Russia Soviet pianist, composer and teacher, Tatiana Nikolayeva taught what Polish pianist and music educator?",
+        "gold_answer": "Maria Szraiber",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 61,
+        "question": "What theory was advanced by the author of Progress in Optics?",
+        "gold_answer": "theory of direct scattering and inverse scattering",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 62,
+        "question": "Why is Minister Pool important to Black Country and the West Midlands in England?",
+        "gold_answer": "defence of the Cathedral",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 63,
+        "question": "Which American singer-songwriter toured with J.P. Doherty in 2007 on Cyndi Lauper's True Colors tour?",
+        "gold_answer": "Debbie Harry",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 64,
+        "question": " Which 1970's film was released first, Charley and the Angel or The Boatniks?",
+        "gold_answer": "The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 65,
+        "question": "M.F.A. starred the actress known for starring in what E! reality series?",
+        "gold_answer": "Mrs. Eastwood & Company",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 66,
+        "question": "The creek of which Paradise Creek is a tributary is a tributary of what river?",
+        "gold_answer": "Delaware River",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 67,
+        "question": "What tribe was the Megaoryzomys curioi previously in that Nesoryzomys are also in?",
+        "gold_answer": "Oryzomyini",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 68,
+        "question": "When did the Disney sitcom in which Genevieve Knight \"G\" Hannelius starred as Avery Jennings end?",
+        "gold_answer": "October 16, 2015",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 69,
+        "question": "Keene is an unincorporated community in Wabaunsee County, Kansas, in what federal republic composed of 50 states?",
+        "gold_answer": "The United States of America",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 70,
+        "question": "In which genus number of species are more, Lavatera or Oplismenus?",
+        "gold_answer": "Oplismenus",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 71,
+        "question": "What was Robert M. Fomon's connection to the New York Stock Exchange located at 11 Wall Street, Lower Manhattan, New York City, New York?",
+        "gold_answer": "a governor",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 72,
+        "question": "Liz Rose has co-written songs with which artist including \"White Horse\" and \"You Belong with Me\"?",
+        "gold_answer": "Taylor Swift",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 73,
+        "question": "where is the  a county where  Purcell can be found located ",
+        "gold_answer": "the U.S. state of Kansas",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 74,
+        "question": "The True Colors World Tour was by what artist whose debut album was \"She's So Unusual\"?",
+        "gold_answer": "Cynthia Ann Stephanie \"Cyndi\" Lauper",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 75,
+        "question": "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?",
+        "gold_answer": "the \"First Family of Competitive Eating\"",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 76,
+        "question": "What American composer born in 1937 pioneered minimal music?",
+        "gold_answer": "Philip Morris Glass",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 77,
+        "question": "What political office was held by two successive occupants of the same castle located in Lauderdale, Scotland?",
+        "gold_answer": "Keeper of the Privy Seal of Scotland",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 78,
+        "question": "Who founded the honky tonk that is at the center  of John Travolta's  third major acting role?",
+        "gold_answer": "Mickey Gilley",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 79,
+        "question": "What is the name of the father of Childericus?",
+        "gold_answer": "Merovech",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 80,
+        "question": "Which band was formed first, Lit or Adorable?",
+        "gold_answer": "Adorable",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 81,
+        "question": "who influenced the electronic dance music who  made  Scotch Hausen album",
+        "gold_answer": "hardcore",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 82,
+        "question": "Black Book starred the actress and writer of what heritage?",
+        "gold_answer": "Dutch",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 83,
+        "question": "Brian Olsen was the lst WEC heavyweight champion before the promotion company founded in what month purchased the organization?",
+        "gold_answer": "January 2001",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 84,
+        "question": "Which of Kylian Hazard's older brothers plays for the German Bundesliga club Borussia Mönchengladbach and the Belgium national team.",
+        "gold_answer": "Thorgan Ganael Francis Hazard",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 85,
+        "question": "Wing Chun starred Michelle Yeoh and a Hong Kong actor, martial artist, and film director who won what tournament multiple times?",
+        "gold_answer": "world wushu tournament",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 86,
+        "question": "What character in \"Father Ted\" was played by an actor who starred in Death in Paradise?",
+        "gold_answer": "Father Dougal McGuire",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 87,
+        "question": "Who is older between the brothers that J. Todd Anderson has primarily worked with?",
+        "gold_answer": "Joel David Coen",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 88,
+        "question": "Who owns the hotel where the 13th Anniversary Show took place?",
+        "gold_answer": "Boyd Gaming",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 89,
+        "question": "Immanuel Lutheran School is affiliated with the denomination that has how many members?",
+        "gold_answer": "2.1 million",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 90,
+        "question": "What was the code name of The landing barge primarily used to provide hot meals to the landing crew?",
+        "gold_answer": "Operation Neptune",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 91,
+        "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+        "gold_answer": "Boeing EA-18G Growler",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 92,
+        "question": "For which NBA team did the MVP of the 2013 McDonald's All-American Boys Game play?",
+        "gold_answer": "Orlando Magic",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 93,
+        "question": "When was the American automobile club which has 2014 Trans-Am Series as the 46th running of the Sports formed? ",
+        "gold_answer": "1944",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 94,
+        "question": "What is the population of the city in which the first edition of the South American Youth Olympic Games were held?",
+        "gold_answer": "more than 10 million",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 95,
+        "question": "Who constructed Auburn the Antebellum mansion and was accused of the Manhattan Well Murder?",
+        "gold_answer": "Levi Weeks",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 96,
+        "question": "What kind of person of authority does Governor of Sheerness and Stapleton Cotton, 1st Viscount Combermere have in common?",
+        "gold_answer": "officer",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 97,
+        "question": "What was the name of the publisher who published \"Finnegans Wake\" in 1939 by James Joyce",
+        "gold_answer": "Teriade",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 98,
+        "question": "What was the address of the penitentiary where Jimmy Elliot was sentenced?",
+        "gold_answer": "2027 Fairmount Avenue",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 99,
+        "question": "in the 2004 Hockey film produced by a former major league baseball pitcher who played the USA coach?",
+        "gold_answer": "Kurt Russell",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 100,
+        "question": "In regards to Value premium an expert argued that no value premium exisits, what did this expert found?",
+        "gold_answer": "The Vanguard Group",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 101,
+        "question": "What is the founding year of this public research university in the Netherlands, where Jan Borgman was a professor from 1968 to 1988?",
+        "gold_answer": "1614",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 102,
+        "question": "This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.",
+        "gold_answer": "Robert \"Bobby\" Bunda",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 103,
+        "question": "Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?",
+        "gold_answer": "London, England",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 104,
+        "question": "What is the focus of the movie in which Nolan North played the role of Superboy?",
+        "gold_answer": "focus on young superheroes",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 105,
+        "question": "Were both Monkey Kingdom and Anaganaga O Dheerudu connected with Disney?",
+        "gold_answer": "yes",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 106,
+        "question": "Temagami-Lorrain Mine and Burwash Mine were both mines created during the early 1900s; which one yielded a 16-ton bulk sample of gold ore in 1935?",
+        "gold_answer": "Burwash Mine",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 107,
+        "question": "What county in Minnesota holds a 202 lb slab of greywacke covered in runes?",
+        "gold_answer": "Douglas",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 108,
+        "question": "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank?",
+        "gold_answer": "Twin Pines/Lone Pine Mall",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 109,
+        "question": "Tamanchey is a comedy film that starred the actress who works in what type of films?",
+        "gold_answer": "Hindi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 110,
+        "question": "The Northern Chamber Orchestra gives concerts at what estate owned by the National Trust?",
+        "gold_answer": "Tatton Park",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 111,
+        "question": "Which star of \"Chalet Girl\" also appeared in \"The Treasure Seekers\"?",
+        "gold_answer": "Felicity Rose Hadley Jones",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 112,
+        "question": "In regards to the high school that forced Manchester High School to change its name in 1922, when was its first graduating class?",
+        "gold_answer": "June 1925",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 113,
+        "question": "What year was the song that some critics compared to \"Fading\" released? ",
+        "gold_answer": "2008",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 114,
+        "question": "What is another name for the LRA featured in A Brilliant Genocide?",
+        "gold_answer": "United Holy Salvation Army and Uganda Christian Army/Movement",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 115,
+        "question": "Charlie McDermott plays Axl Heck on a tv show that premiered in what date? ",
+        "gold_answer": "September 30, 2009",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 116,
+        "question": "What Dances with the Wolves star had a role in Powwow Highway?",
+        "gold_answer": "Wesley \"Wes\" Studi",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 117,
+        "question": "Who created the show that featured Triumph the Insult Comic Dog?",
+        "gold_answer": "Robert Smigel, Michael Koman and David Feldman",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 118,
+        "question": "The tap dancing soloist in My Feet Keep Dancing also starred in what 1935 MGM musical?",
+        "gold_answer": "\"An All-Colored Vaudeville Show\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 119,
+        "question": "What type of auto racing, performed on clay or dirt surfaced oval tracks, is run for the Australian Street Stock Championship? ",
+        "gold_answer": "Dirt track racing",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 120,
+        "question": "What year was the namesake of a small island in the Town of East Hampton born?",
+        "gold_answer": "1599",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 121,
+        "question": "Peter Marc Jacobson is best known as the co-creator of the popular sitcom \"The Nanny\", which he created and wrote with his then wife an actress born in which year ?",
+        "gold_answer": "1957",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 122,
+        "question": "Who was the brother of the architect of Hook and Ladder No. 4 located in Albany, NY?",
+        "gold_answer": "Cuyler Reynolds",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 123,
+        "question": "Bethpage State Parkway begins with an interchange at which Long Island-based limited access highway?",
+        "gold_answer": "Southern State Parkway",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 124,
+        "question": "1990 Film Lionheart stars this actor who is best known for what type of films?",
+        "gold_answer": "martial arts action films",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 125,
+        "question": "How is the namesake of The Mountbatten Institute related to Elizabeth II?",
+        "gold_answer": "second cousin once removed",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 126,
+        "question": "At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?",
+        "gold_answer": "fortnightly",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 127,
+        "question": "Which brand of canned cooked meat by Hormel Foods Corporation is used to make a popular snack and lunch food in Hawaii?",
+        "gold_answer": "Spam",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 128,
+        "question": "Which plant genus has a longer common name, Myrtus or Eustoma?",
+        "gold_answer": "Eustoma",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 129,
+        "question": "What films were the basis for \"Family Guy\" and the character of Peter Griffith? ",
+        "gold_answer": "The Life of Larry and Larry & Steve",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 130,
+        "question": "How many yards did the nephew of Ivory Lee Brown get during his 2004 true freshman season?",
+        "gold_answer": "1,925 yards",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 131,
+        "question": "Belle & Sebastian: The Adventure Continues is the sequel to the 2013 film \"Belle and Sebastian\", a French adventure film directed by who?",
+        "gold_answer": "Nicolas Vanier",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 132,
+        "question": "Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole on what date?",
+        "gold_answer": "March 30, 2025",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 133,
+        "question": "Are Peter Balakian and James Der Derian both teachers?",
+        "gold_answer": "yes",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 134,
+        "question": "In which St. Louis Cardinal season did a player born in 1972 blow ten saves before undergoing season-ending hip surgery?",
+        "gold_answer": "2006 season",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 135,
+        "question": "Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?",
+        "gold_answer": "Scott Adkins",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 136,
+        "question": "Liverpool nurse Mimi Smith was the aunt and guardian of which one of the city's most famous sons?",
+        "gold_answer": "John Lennon",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 137,
+        "question": "Out of two American colonies that had a series of skirmishes and raids between 1701 and 1765 at the disputed border, which British proprietary colony became a royal colony on the northeast coast of North America?",
+        "gold_answer": "Province of New York",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 138,
+        "question": "Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?",
+        "gold_answer": "Caesars Palace Grand Prix",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 139,
+        "question": "What is the name of Bruce Willis's character in Unbreakable?",
+        "gold_answer": "David Dunn",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 140,
+        "question": "How many degrees and minutes south of the equator are the bone fragments of the extinct Ascension night heron found?",
+        "gold_answer": "7°56'",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 141,
+        "question": "Jon S. Cardin is the nephew of a senator who has been in office since when ?",
+        "gold_answer": "since 2007",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 142,
+        "question": "Chris Jones is a semi-professional footballer, who played with what goalkeeper for Derby County when he was with Yorkshire?",
+        "gold_answer": "Scott Paul Carson",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 143,
+        "question": "What former president of ABC television is a high ranking officer in the same company as Christine Mccarthy?",
+        "gold_answer": "Robert A. Iger",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 144,
+        "question": "Show Her is a song written by a country music artist who is also a former player of what sport?",
+        "gold_answer": "American football",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 145,
+        "question": "House of Many Ways is a young adult fantasy novel set in the same world as a novel that was adapted as an animated film of the same name and nominated for what?",
+        "gold_answer": "Academy Award for Best Animated Feature",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 146,
+        "question": "What NFL team did the 2017 ESPN College Football Friday Primetime host who played at Oklahoma in college play for?",
+        "gold_answer": "the Bears",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 147,
+        "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+        "gold_answer": "great-grandfather",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 148,
+        "question": "Who is the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?",
+        "gold_answer": "William Shakespeare",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 149,
+        "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+        "gold_answer": "fictional character",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 150,
+        "question": "What distinction about his birth makes the contemporary of Bill Pollack unique as a winner of the Formula One World Drivers' Championship?",
+        "gold_answer": "American-born",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 151,
+        "question": "What musical action does Ndebele music and Musical bow have in common?",
+        "gold_answer": "played",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 152,
+        "question": " Billy Preston is an American college basketball player for a team that competes in what?",
+        "gold_answer": "the Big 12 Conference",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 153,
+        "question": "Nicolau Colaco played as a defender in the men's professional league sponsored by which company?",
+        "gold_answer": "Hero",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 154,
+        "question": "What award did the writer of Never Let Me Go novel win in 1989?",
+        "gold_answer": "Man Booker Prize for Fiction",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 155,
+        "question": "The Cineplex Odeon Theatres are now operated as which American movie theater chain majority-owned by Chinese conglomerate Dalian Wanda Group?",
+        "gold_answer": "AMC Theatres",
+        "predicted": "B",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "method": "ACC-RAG-Lite",
+    "accuracy": 0.6667,
+    "avg_tokens": 821.5,
+    "total_samples": 156,
+    "correct": 104,
+    "total_time_seconds": 161.6,
+    "detailed_results": [
+      {
+        "index": 0,
+        "question": "Scott Workman was an American stuntman and actor credited with a successful show on what smaller TV Network?",
+        "gold_answer": "WB Television Network",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 1,
+        "question": "Telos was an album by a band who formed in what city?",
+        "gold_answer": "Indianapolis",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 2,
+        "question": "Lawerence Turman had produced a film, with a character named \"Johnny 5\" that had a follow up sequel released in what year?",
+        "gold_answer": "1988",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 3,
+        "question": "What rank was higher than Karl Hermann Frank's rank until April 1942?",
+        "gold_answer": "Reichsführer-SS",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 4,
+        "question": " Force India VJM10 is a Formula One racing car previous driven by Nico Hülkenberg, and is now driven by which driver born 17 September 1996?",
+        "gold_answer": "Esteban Ocon",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 5,
+        "question": "Radha Jayalakshmi and the Priya sisters were both duo's in what music style? ",
+        "gold_answer": "Carnatic music",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 6,
+        "question": "What is the name of the number-one single featuring the winner of Celebrity Apprentice 3?",
+        "gold_answer": "Every Rose Has Its Thorn",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 7,
+        "question": "What song by the American rapper Coolio is on his greatest hits album \"Fantiastic Voyage\" and samples from a Stevie Wonder song?",
+        "gold_answer": "Gangsta's Paradise",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 8,
+        "question": "Which of the music composed for Operation Amsterdam originated in the middle of the 19th century in Bohemia, now part of the Czech Republic?",
+        "gold_answer": "Polka",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 9,
+        "question": "Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?",
+        "gold_answer": "Francisco Rafael Arellano Félix",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 10,
+        "question": "The actress who made her film debut in Friday Night Lights also starred in a 2014 French-American crime-thriller directed by whi?",
+        "gold_answer": "McG",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 11,
+        "question": "In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?",
+        "gold_answer": "Campbellsville University",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 12,
+        "question": "Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",
+        "gold_answer": "GE Appliances",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 13,
+        "question": "PISCES was developed by the company that is headquartered in what city?",
+        "gold_answer": "McLean, Virginia",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 14,
+        "question": "How many species of Hawaiian hibiscus do not have white flowers?",
+        "gold_answer": "250",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 15,
+        "question": "Marvel Classics Comics specialized in adaptations of literary classics, such as a novel by American writer Herman Melville, that was published in what year?",
+        "gold_answer": "1851",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 16,
+        "question": "When was the Chief Aerodynamicist for the British supersonic land vehicle, whose goal is to match or exceed 1000 mph achieving a new world land speed record, born?",
+        "gold_answer": "1932",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 17,
+        "question": "Which reservation is located in Hill and Chouteau and named after the principal leader of the Montana Chippewa-Cree?",
+        "gold_answer": "Rocky Boy's Indian Reservation",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 18,
+        "question": "Jihad: A Story of the Others is a documentary by the director who is of what descent?",
+        "gold_answer": "Punjabi/Pashtun",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 19,
+        "question": "Who was the main vocal of \"Set the Fire to the Third Bar\"?",
+        "gold_answer": "Gary Lightbody",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 20,
+        "question": "In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?",
+        "gold_answer": "Australian",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 21,
+        "question": "Cheek to cheek tour played shows at what place that is located on the Las Vegas strip that began their tour?",
+        "gold_answer": "Cosmopolitan of Las Vegas",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 22,
+        "question": "Do the operas Vanessa and Le roi malgré lui contain that same number of acts?",
+        "gold_answer": "yes",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 23,
+        "question": "What was Terry Owen's son's profession after retiring from football?",
+        "gold_answer": "racehorse breeder and owner",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 24,
+        "question": "Where was the only European Cup Final in which Jupp Heynkes played held?",
+        "gold_answer": "Stadio Olimpico",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 25,
+        "question": "The USS Tortuga was named after the Dry Tortugas, a group of desert coral islets 60 miles west of which city with the motto \"One Human Family\"?",
+        "gold_answer": "Key West",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 26,
+        "question": "The producer of the Eric Church album \"The Outsiders\" was a member of what band in the 1980's?",
+        "gold_answer": "In Pursuit",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 27,
+        "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+        "gold_answer": "Justin Spitzer",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 28,
+        "question": "The Bodie & Benton Railway was a narrow gauge common carrier railroad in California, from the Mono Mills to a terminus in a ghost town located how many miles away from Lake Tahoe ?",
+        "gold_answer": "75 mi",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 29,
+        "question": "Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?",
+        "gold_answer": "The Changing Scottish Landscape",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 30,
+        "question": "Which American car rental company is also a member of the Association of Car Rental Industry Sytems Standards?",
+        "gold_answer": "Budget Rent a Car",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 31,
+        "question": "The competition Lev Oborin won in 1927 is held in what city?",
+        "gold_answer": "Warsaw, Poland",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 32,
+        "question": "Which town has a greater population as of the 2010 census, Minden, Nevada or Gardnerville, Nevada?",
+        "gold_answer": "Gardnerville",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 33,
+        "question": "Which tennis player is from a country closer to Canada, Ken Flach or Lucie Šafářová?",
+        "gold_answer": "Kenneth Eliot Flach",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 34,
+        "question": "What year was the author of Cock and Bull born? ",
+        "gold_answer": "1961",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 35,
+        "question": "What job did Newt Gingrich have prior to producing Nine Days that Changed the World?",
+        "gold_answer": "former Speaker of the U.S. House of Representatives",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 36,
+        "question": "The Polar Bear and Daiquiri are both examples of what?",
+        "gold_answer": "cocktails",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 37,
+        "question": "What is the name of the company that wholly owns the Value Alliance airline whose head office is within Terminal 2 of Narita International Airport?",
+        "gold_answer": "All Nippon",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 38,
+        "question": "When did the character on Grey's Anatomy, played by the same actor who portrayed Rev James Lawson in \"Lee Daniel's The Butler\", debut?",
+        "gold_answer": "season six, episode 5, \"Invasion\"",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 39,
+        "question": "What religion is the composer for India's first science fiction film series?",
+        "gold_answer": "Hindi",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 40,
+        "question": "What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?",
+        "gold_answer": "WAMC",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 41,
+        "question": "The third emperor in the Year of the Four Emperors had how many wives? ",
+        "gold_answer": "second",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 42,
+        "question": "Hudson Austin formed a military government with himself as chairman to rule Grenada, after the killing of a Grenadian politician who was the leader of what movement that was an effort in the areas of socio-economic development, education, and black liberation?",
+        "gold_answer": "New Jewel Movement",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 43,
+        "question": "Which magazine is focused more on the adult demographic, Jack and Jill or Paper?",
+        "gold_answer": "Paper",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 44,
+        "question": "The members of the von Trapp musical group are related to which woman who wrote \"The Story of the Trapp Family Singers\"?",
+        "gold_answer": "Maria von Trapp",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 45,
+        "question": "Who is the American actress performed \"Take On The World\" with Sabrina Carpenter?",
+        "gold_answer": "Rowan Blanchard",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 46,
+        "question": "The Black Belly of the Tarantula starred an actress who married what former member of the Beatles?",
+        "gold_answer": "Ringo Starr",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 47,
+        "question": "What dance academy did the starring actress from The Glory of Tang Dynasty graduate from?",
+        "gold_answer": "Beijing Dance Academy",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 48,
+        "question": "The Birthday of the World: and Other Stories was written by what fantasy and sci-fi author?",
+        "gold_answer": "Ursula Kroeber Le Guin",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 49,
+        "question": "The author of the \"The Dagger and the Coin\" fantasy series was nominated for what award in 2017?",
+        "gold_answer": "Hugo Award",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 50,
+        "question": "What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?",
+        "gold_answer": "professional wrestler, actor, and hip hop musician",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 51,
+        "question": "Lawton–Fort Sill Regional Airport, a charter base for value airline Allegiant Air, is situated in which U.S. state?",
+        "gold_answer": "Oklahoma",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 52,
+        "question": "Which person, William Blake Herron or John Carpenter, held more diverse roles in the movie industry?",
+        "gold_answer": "musician, editor and composer.",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 53,
+        "question": "Keanu is a 2016 American action comedy film directed by Peter Atencio and written by who?",
+        "gold_answer": "Jordan Peele",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 54,
+        "question": "Where was the host of Australia's Got Talent born?",
+        "gold_answer": "Warrnambool, Victoria",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 55,
+        "question": "Repertoire of Plácido Domingo appeared in an opera written by whom which was based on a play by William Shakespeare?",
+        "gold_answer": "Giuseppe Verdi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 56,
+        "question": "Naval Air Station Ellyson Field was an auxiliary facility to the air station in which community?",
+        "gold_answer": "Warrington",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 57,
+        "question": "What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?",
+        "gold_answer": "Sex Drive",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 58,
+        "question": "The birthplace of George McCall Theal is a port city of what bay?",
+        "gold_answer": "Bay of Fundy",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 59,
+        "question": "Whose native growing land is more south, Beech or Daviesia?",
+        "gold_answer": "Daviesia",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 60,
+        "question": "Russia Soviet pianist, composer and teacher, Tatiana Nikolayeva taught what Polish pianist and music educator?",
+        "gold_answer": "Maria Szraiber",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 61,
+        "question": "What theory was advanced by the author of Progress in Optics?",
+        "gold_answer": "theory of direct scattering and inverse scattering",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 62,
+        "question": "Why is Minister Pool important to Black Country and the West Midlands in England?",
+        "gold_answer": "defence of the Cathedral",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 63,
+        "question": "Which American singer-songwriter toured with J.P. Doherty in 2007 on Cyndi Lauper's True Colors tour?",
+        "gold_answer": "Debbie Harry",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 64,
+        "question": " Which 1970's film was released first, Charley and the Angel or The Boatniks?",
+        "gold_answer": "The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 65,
+        "question": "M.F.A. starred the actress known for starring in what E! reality series?",
+        "gold_answer": "Mrs. Eastwood & Company",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 66,
+        "question": "The creek of which Paradise Creek is a tributary is a tributary of what river?",
+        "gold_answer": "Delaware River",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 67,
+        "question": "What tribe was the Megaoryzomys curioi previously in that Nesoryzomys are also in?",
+        "gold_answer": "Oryzomyini",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 68,
+        "question": "When did the Disney sitcom in which Genevieve Knight \"G\" Hannelius starred as Avery Jennings end?",
+        "gold_answer": "October 16, 2015",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 69,
+        "question": "Keene is an unincorporated community in Wabaunsee County, Kansas, in what federal republic composed of 50 states?",
+        "gold_answer": "The United States of America",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 70,
+        "question": "In which genus number of species are more, Lavatera or Oplismenus?",
+        "gold_answer": "Oplismenus",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 71,
+        "question": "What was Robert M. Fomon's connection to the New York Stock Exchange located at 11 Wall Street, Lower Manhattan, New York City, New York?",
+        "gold_answer": "a governor",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 72,
+        "question": "Liz Rose has co-written songs with which artist including \"White Horse\" and \"You Belong with Me\"?",
+        "gold_answer": "Taylor Swift",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 73,
+        "question": "where is the  a county where  Purcell can be found located ",
+        "gold_answer": "the U.S. state of Kansas",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 74,
+        "question": "The True Colors World Tour was by what artist whose debut album was \"She's So Unusual\"?",
+        "gold_answer": "Cynthia Ann Stephanie \"Cyndi\" Lauper",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 75,
+        "question": "What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?",
+        "gold_answer": "the \"First Family of Competitive Eating\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 76,
+        "question": "What American composer born in 1937 pioneered minimal music?",
+        "gold_answer": "Philip Morris Glass",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 77,
+        "question": "What political office was held by two successive occupants of the same castle located in Lauderdale, Scotland?",
+        "gold_answer": "Keeper of the Privy Seal of Scotland",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 78,
+        "question": "Who founded the honky tonk that is at the center  of John Travolta's  third major acting role?",
+        "gold_answer": "Mickey Gilley",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 79,
+        "question": "What is the name of the father of Childericus?",
+        "gold_answer": "Merovech",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 80,
+        "question": "Which band was formed first, Lit or Adorable?",
+        "gold_answer": "Adorable",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 81,
+        "question": "who influenced the electronic dance music who  made  Scotch Hausen album",
+        "gold_answer": "hardcore",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 82,
+        "question": "Black Book starred the actress and writer of what heritage?",
+        "gold_answer": "Dutch",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 83,
+        "question": "Brian Olsen was the lst WEC heavyweight champion before the promotion company founded in what month purchased the organization?",
+        "gold_answer": "January 2001",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 84,
+        "question": "Which of Kylian Hazard's older brothers plays for the German Bundesliga club Borussia Mönchengladbach and the Belgium national team.",
+        "gold_answer": "Thorgan Ganael Francis Hazard",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 85,
+        "question": "Wing Chun starred Michelle Yeoh and a Hong Kong actor, martial artist, and film director who won what tournament multiple times?",
+        "gold_answer": "world wushu tournament",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 86,
+        "question": "What character in \"Father Ted\" was played by an actor who starred in Death in Paradise?",
+        "gold_answer": "Father Dougal McGuire",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 87,
+        "question": "Who is older between the brothers that J. Todd Anderson has primarily worked with?",
+        "gold_answer": "Joel David Coen",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 88,
+        "question": "Who owns the hotel where the 13th Anniversary Show took place?",
+        "gold_answer": "Boyd Gaming",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 89,
+        "question": "Immanuel Lutheran School is affiliated with the denomination that has how many members?",
+        "gold_answer": "2.1 million",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 90,
+        "question": "What was the code name of The landing barge primarily used to provide hot meals to the landing crew?",
+        "gold_answer": "Operation Neptune",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 91,
+        "question": "Electronic Attack Squadron 138 is a type of which American carrier-based electronic warfare aircraft, a specialized version of the two-seat F/A-18F Super Hornet?",
+        "gold_answer": "Boeing EA-18G Growler",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 92,
+        "question": "For which NBA team did the MVP of the 2013 McDonald's All-American Boys Game play?",
+        "gold_answer": "Orlando Magic",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 93,
+        "question": "When was the American automobile club which has 2014 Trans-Am Series as the 46th running of the Sports formed? ",
+        "gold_answer": "1944",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 94,
+        "question": "What is the population of the city in which the first edition of the South American Youth Olympic Games were held?",
+        "gold_answer": "more than 10 million",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 95,
+        "question": "Who constructed Auburn the Antebellum mansion and was accused of the Manhattan Well Murder?",
+        "gold_answer": "Levi Weeks",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 96,
+        "question": "What kind of person of authority does Governor of Sheerness and Stapleton Cotton, 1st Viscount Combermere have in common?",
+        "gold_answer": "officer",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 97,
+        "question": "What was the name of the publisher who published \"Finnegans Wake\" in 1939 by James Joyce",
+        "gold_answer": "Teriade",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 98,
+        "question": "What was the address of the penitentiary where Jimmy Elliot was sentenced?",
+        "gold_answer": "2027 Fairmount Avenue",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 99,
+        "question": "in the 2004 Hockey film produced by a former major league baseball pitcher who played the USA coach?",
+        "gold_answer": "Kurt Russell",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 100,
+        "question": "In regards to Value premium an expert argued that no value premium exisits, what did this expert found?",
+        "gold_answer": "The Vanguard Group",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 101,
+        "question": "What is the founding year of this public research university in the Netherlands, where Jan Borgman was a professor from 1968 to 1988?",
+        "gold_answer": "1614",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 102,
+        "question": "This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.",
+        "gold_answer": "Robert \"Bobby\" Bunda",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 103,
+        "question": "Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?",
+        "gold_answer": "London, England",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 104,
+        "question": "What is the focus of the movie in which Nolan North played the role of Superboy?",
+        "gold_answer": "focus on young superheroes",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 105,
+        "question": "Were both Monkey Kingdom and Anaganaga O Dheerudu connected with Disney?",
+        "gold_answer": "yes",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 106,
+        "question": "Temagami-Lorrain Mine and Burwash Mine were both mines created during the early 1900s; which one yielded a 16-ton bulk sample of gold ore in 1935?",
+        "gold_answer": "Burwash Mine",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 107,
+        "question": "What county in Minnesota holds a 202 lb slab of greywacke covered in runes?",
+        "gold_answer": "Douglas",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 108,
+        "question": "What is the fictional name of the mall in the movie \"Back to the Future\" which was filmed at the headquarters of EverTrust Bank?",
+        "gold_answer": "Twin Pines/Lone Pine Mall",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 109,
+        "question": "Tamanchey is a comedy film that starred the actress who works in what type of films?",
+        "gold_answer": "Hindi",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 110,
+        "question": "The Northern Chamber Orchestra gives concerts at what estate owned by the National Trust?",
+        "gold_answer": "Tatton Park",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 111,
+        "question": "Which star of \"Chalet Girl\" also appeared in \"The Treasure Seekers\"?",
+        "gold_answer": "Felicity Rose Hadley Jones",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 112,
+        "question": "In regards to the high school that forced Manchester High School to change its name in 1922, when was its first graduating class?",
+        "gold_answer": "June 1925",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 113,
+        "question": "What year was the song that some critics compared to \"Fading\" released? ",
+        "gold_answer": "2008",
+        "predicted": "B",
+        "correct": false
+      },
+      {
+        "index": 114,
+        "question": "What is another name for the LRA featured in A Brilliant Genocide?",
+        "gold_answer": "United Holy Salvation Army and Uganda Christian Army/Movement",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 115,
+        "question": "Charlie McDermott plays Axl Heck on a tv show that premiered in what date? ",
+        "gold_answer": "September 30, 2009",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 116,
+        "question": "What Dances with the Wolves star had a role in Powwow Highway?",
+        "gold_answer": "Wesley \"Wes\" Studi",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 117,
+        "question": "Who created the show that featured Triumph the Insult Comic Dog?",
+        "gold_answer": "Robert Smigel, Michael Koman and David Feldman",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 118,
+        "question": "The tap dancing soloist in My Feet Keep Dancing also starred in what 1935 MGM musical?",
+        "gold_answer": "\"An All-Colored Vaudeville Show\"",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 119,
+        "question": "What type of auto racing, performed on clay or dirt surfaced oval tracks, is run for the Australian Street Stock Championship? ",
+        "gold_answer": "Dirt track racing",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 120,
+        "question": "What year was the namesake of a small island in the Town of East Hampton born?",
+        "gold_answer": "1599",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 121,
+        "question": "Peter Marc Jacobson is best known as the co-creator of the popular sitcom \"The Nanny\", which he created and wrote with his then wife an actress born in which year ?",
+        "gold_answer": "1957",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 122,
+        "question": "Who was the brother of the architect of Hook and Ladder No. 4 located in Albany, NY?",
+        "gold_answer": "Cuyler Reynolds",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 123,
+        "question": "Bethpage State Parkway begins with an interchange at which Long Island-based limited access highway?",
+        "gold_answer": "Southern State Parkway",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 124,
+        "question": "1990 Film Lionheart stars this actor who is best known for what type of films?",
+        "gold_answer": "martial arts action films",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 125,
+        "question": "How is the namesake of The Mountbatten Institute related to Elizabeth II?",
+        "gold_answer": "second cousin once removed",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 126,
+        "question": "At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?",
+        "gold_answer": "fortnightly",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 127,
+        "question": "Which brand of canned cooked meat by Hormel Foods Corporation is used to make a popular snack and lunch food in Hawaii?",
+        "gold_answer": "Spam",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 128,
+        "question": "Which plant genus has a longer common name, Myrtus or Eustoma?",
+        "gold_answer": "Eustoma",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 129,
+        "question": "What films were the basis for \"Family Guy\" and the character of Peter Griffith? ",
+        "gold_answer": "The Life of Larry and Larry & Steve",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 130,
+        "question": "How many yards did the nephew of Ivory Lee Brown get during his 2004 true freshman season?",
+        "gold_answer": "1,925 yards",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 131,
+        "question": "Belle & Sebastian: The Adventure Continues is the sequel to the 2013 film \"Belle and Sebastian\", a French adventure film directed by who?",
+        "gold_answer": "Nicolas Vanier",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 132,
+        "question": "Selena Quintanilla-Pérez's assistant and head of her fan club will be eligible for parole on what date?",
+        "gold_answer": "March 30, 2025",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 133,
+        "question": "Are Peter Balakian and James Der Derian both teachers?",
+        "gold_answer": "yes",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 134,
+        "question": "In which St. Louis Cardinal season did a player born in 1972 blow ten saves before undergoing season-ending hip surgery?",
+        "gold_answer": "2006 season",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 135,
+        "question": "Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?",
+        "gold_answer": "Scott Adkins",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 136,
+        "question": "Liverpool nurse Mimi Smith was the aunt and guardian of which one of the city's most famous sons?",
+        "gold_answer": "John Lennon",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 137,
+        "question": "Out of two American colonies that had a series of skirmishes and raids between 1701 and 1765 at the disputed border, which British proprietary colony became a royal colony on the northeast coast of North America?",
+        "gold_answer": "Province of New York",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 138,
+        "question": "Former race car driver Jeff Wood made his CART debut at which 1983 Nissan/Datsun-sponsored race?",
+        "gold_answer": "Caesars Palace Grand Prix",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 139,
+        "question": "What is the name of Bruce Willis's character in Unbreakable?",
+        "gold_answer": "David Dunn",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 140,
+        "question": "How many degrees and minutes south of the equator are the bone fragments of the extinct Ascension night heron found?",
+        "gold_answer": "7°56'",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 141,
+        "question": "Jon S. Cardin is the nephew of a senator who has been in office since when ?",
+        "gold_answer": "since 2007",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 142,
+        "question": "Chris Jones is a semi-professional footballer, who played with what goalkeeper for Derby County when he was with Yorkshire?",
+        "gold_answer": "Scott Paul Carson",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 143,
+        "question": "What former president of ABC television is a high ranking officer in the same company as Christine Mccarthy?",
+        "gold_answer": "Robert A. Iger",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 144,
+        "question": "Show Her is a song written by a country music artist who is also a former player of what sport?",
+        "gold_answer": "American football",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 145,
+        "question": "House of Many Ways is a young adult fantasy novel set in the same world as a novel that was adapted as an animated film of the same name and nominated for what?",
+        "gold_answer": "Academy Award for Best Animated Feature",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 146,
+        "question": "What NFL team did the 2017 ESPN College Football Friday Primetime host who played at Oklahoma in college play for?",
+        "gold_answer": "the Bears",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 147,
+        "question": "What relationship does Fred Gehrke have to the 23rd overall pick in the 2010 Major League Baseball Draft?",
+        "gold_answer": "great-grandfather",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 148,
+        "question": "Who is the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?",
+        "gold_answer": "William Shakespeare",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 149,
+        "question": "Which type of character is featured by the P.L. Travers's third book and last novel in the \"Mary Poppins\" series?",
+        "gold_answer": "fictional character",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 150,
+        "question": "What distinction about his birth makes the contemporary of Bill Pollack unique as a winner of the Formula One World Drivers' Championship?",
+        "gold_answer": "American-born",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 151,
+        "question": "What musical action does Ndebele music and Musical bow have in common?",
+        "gold_answer": "played",
+        "predicted": "A",
+        "correct": true
+      },
+      {
+        "index": 152,
+        "question": " Billy Preston is an American college basketball player for a team that competes in what?",
+        "gold_answer": "the Big 12 Conference",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 153,
+        "question": "Nicolau Colaco played as a defender in the men's professional league sponsored by which company?",
+        "gold_answer": "Hero",
+        "predicted": "A",
+        "correct": false
+      },
+      {
+        "index": 154,
+        "question": "What award did the writer of Never Let Me Go novel win in 1989?",
+        "gold_answer": "Man Booker Prize for Fiction",
+        "predicted": "B",
+        "correct": true
+      },
+      {
+        "index": 155,
+        "question": "The Cineplex Odeon Theatres are now operated as which American movie theater chain majority-owned by Chinese conglomerate Dalian Wanda Group?",
+        "gold_answer": "AMC Theatres",
+        "predicted": "A",
+        "correct": true
+      }
+    ]
+  }
+]
